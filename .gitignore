@@ -1,0 +1,15 @@
+images_promo/
+images_upload/
+info/
+pdf/
+src_folletos/
+.DS_Store
+sftp-config.json
+
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
