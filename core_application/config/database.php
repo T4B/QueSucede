@@ -48,7 +48,9 @@
 $host=base_url();
 
 switch($host)
-{   
+{
+    case "https://www.quesucede.app/":
+    case "https://quesucede.app/":
     case "http://www.quesucede.dev/":
     case "http://quesucede.dev/":
         $grupo="dev";
@@ -80,7 +82,7 @@ $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
-$db['dev']['hostname'] = 'localhost';
+$db['dev']['hostname'] = '127.0.0.1';
 $db['dev']['username'] = 'root';
 $db['dev']['password'] = '';
 $db['dev']['database'] = 'que_sucede';

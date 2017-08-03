@@ -1,0 +1,9 @@
+Lineas correctas -> 6
+Total errores -> 6
+
+Fila : 2: El id de formato debe ser numérico. 
+Fila : 3: El id de formato debe ser numérico. 
+Fila : 4: El id de formato debe ser numérico. 
+Fila : 5: El id de formato debe ser numérico. 
+Fila : 6: El id de formato debe ser numérico. 
+Fila : 7: El id de formato debe ser numérico. 

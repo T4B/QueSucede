@@ -5,6 +5,7 @@ class Login_lib {
     public function verifica_login(){
         $CI =& get_instance();
         $login_ok = $CI->session->userdata('login_ok');
+
         return $login_ok;
     }
 

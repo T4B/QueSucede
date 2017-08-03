@@ -35,27 +35,28 @@ class Page extends CI_Controller {
 		$this->load->view('templates/footer', $data);
 		
 	}
-	
+
 	public function mensaje(){
+
 		$data = $this->header_lib->arma_rutas();
-		
+
 		if($this->login_lib->verifica_login()){
 			$data = $this->header_lib->arma_menu($data);
 		}
-		
+
 		$data['mensaje'] = $this->session->flashdata('texto_mensaje');
 		$data['titulo'] = $this->session->flashdata('titulo_mensaje');
 		$data['imagen'] = $this->session->flashdata('imagen_mensaje');
-		
-		
+
+
 		$page = 'mensaje_page';
-		
+
 		$this->load->view('templates/header', $data);
 		$this->load->view('pages/'.$page);
 		$this->load->view('templates/footer', $data);
-		
+
 	}
-	
+
 }
 /* End of file welcome.php */
 /* Location: ./application/controllers/welcome.php */

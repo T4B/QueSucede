@@ -1,4 +1,5 @@
 <?php
+require_once './vendor/autoload.php';
 
 if( ! ini_get('date.timezone') )
 {
