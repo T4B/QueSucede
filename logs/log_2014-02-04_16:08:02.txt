@@ -1,0 +1,24 @@
+Lineas correctas -> 0
+Total errores -> 21
+
+Fila : 2:  Error al subir foto, Archivo: 201401021522910031121035.jpg 
+Fila : 3:  Error al subir foto, Archivo: 2014010215229100319239181115.jpg 
+Fila : 4:  Error al subir foto, Archivo: 2014010215229100319339411035.jpg 
+Fila : 5:  Error al subir foto, Archivo: 2014010215229100319439641035.jpg 
+Fila : 6:  Error al subir foto, Archivo: 2014010215229100319539871115.jpg 
+Fila : 7:  Error al subir foto, Archivo: 2014010215229100319640101114.jpg 
+Fila : 8:  Error al subir foto, Archivo: 2014010215229100319740331115.jpg 
+Fila : 9:  Error al subir foto, Archivo: 2014010215229100319840561115.jpg 
+Fila : 10:  Error al subir foto, Archivo: 2014010215229100319940791115.jpg 
+Fila : 11:  Error al subir foto, Archivo: 2014010215229100320041021115.jpg 
+Fila : 12:  Error al subir foto, Archivo: 201401031522910031121114.jpg 
+Fila : 13:  Error al subir foto, Archivo: 2014010315229100319239181031.jpg 
+Fila : 14:  Error al subir foto, Archivo: 2014010315229100319339411114.jpg 
+Fila : 15:  Error al subir foto, Archivo: 2014010315229100319439641034.jpg 
+Fila : 16:  Error al subir foto, Archivo: 2014010315229100319539871115.jpg 
+Fila : 17:  Error al subir foto, Archivo: 2014010315229100319640101114.jpg 
+Fila : 18:  Error al subir foto, Archivo: 2014010315229100319740331114.jpg 
+Fila : 19:  Error al subir foto, Archivo: 2014010315229100319840561115.jpg 
+Fila : 20:  Error al subir foto, Archivo: 2014010315229100319940791035.jpg 
+Fila : 21:  Error al subir foto, Archivo: 2014010315229100320041021035.jpg 
+Fila : 22:  Error al subir foto, Archivo: 2014010315229100320141251035.jpg 

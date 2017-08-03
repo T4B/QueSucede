@@ -1,0 +1,6 @@
+Lineas correctas -> 455
+Total errores -> 3
+
+Fila : 2:  Error al subir foto, Archivo: 0 
+Fila : 3:  Error al subir foto, Archivo: 0 
+Fila : 359:  Error al subir foto, Archivo: 0 

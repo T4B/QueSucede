@@ -1,0 +1,24 @@
+Lineas correctas -> 21
+Total errores -> 0
+
+Id insertado de promoción nueva-> 332 
+Id insertado de promoción nueva-> 333 
+Id insertado de promoción nueva-> 334 
+Id insertado de promoción nueva-> 335 
+Id insertado de promoción nueva-> 336 
+Id insertado de promoción nueva-> 337 
+Id insertado de promoción nueva-> 338 
+Id insertado de promoción nueva-> 339 
+Id insertado de promoción nueva-> 340 
+Id insertado de promoción nueva-> 341 
+Id insertado de promoción nueva-> 342 
+Id insertado de promoción nueva-> 343 
+Id insertado de promoción nueva-> 344 
+Id insertado de promoción nueva-> 345 
+Id insertado de promoción nueva-> 346 
+Id insertado de promoción nueva-> 347 
+Id insertado de promoción nueva-> 348 
+Id insertado de promoción nueva-> 349 
+Id insertado de promoción nueva-> 350 
+Id insertado de promoción nueva-> 351 
+Id insertado de promoción nueva-> 352 

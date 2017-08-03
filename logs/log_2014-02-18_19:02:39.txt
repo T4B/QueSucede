@@ -1,0 +1,29 @@
+Lineas correctas -> 85
+Total errores -> 26
+
+Fila : 37:  Error al subir foto, Archivo: 0 
+Fila : 39:  Error al subir foto, Archivo: 0 
+Fila : 40:  Error al subir foto, Archivo: 0 
+Fila : 41:  Error al subir foto, Archivo: 0 
+Fila : 42:  Error al subir foto, Archivo: 0 
+Fila : 43:  Error al subir foto, Archivo: 0 
+Fila : 44:  Error al subir foto, Archivo: 0 
+Fila : 61:  Error al subir foto, Archivo: 0 
+Fila : 62:  Error al subir foto, Archivo: 0 
+Fila : 63:  Error al subir foto, Archivo: 0 
+Fila : 64:  Error al subir foto, Archivo: 0 
+Fila : 67:  Error al subir foto, Archivo: 0 
+Fila : 70:  Error al subir foto, Archivo: 0 
+Fila : 73:  Error al subir foto, Archivo: 0 
+Fila : 74:  Error al subir foto, Archivo: 0 
+Fila : 76:  Error al subir foto, Archivo: 0 
+Fila : 77:  Error al subir foto, Archivo: 0 
+Fila : 84:  Error al subir foto, Archivo: 0 
+Fila : 92:  Error al subir foto, Archivo: 0 
+Fila : 93:  Error al subir foto, Archivo: 0 
+Fila : 98:  Error al subir foto, Archivo: 0 
+Fila : 99:  Error al subir foto, Archivo: 0 
+Fila : 100:  Error al subir foto, Archivo: 0 
+Fila : 102:  Error al subir foto, Archivo: 0 
+Fila : 103:  Error al subir foto, Archivo: 0 
+Fila : 105:  Error al subir foto, Archivo: 0 

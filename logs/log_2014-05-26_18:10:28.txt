@@ -1,0 +1,34 @@
+Lineas correctas -> 31
+Total errores -> 0
+
+Id insertado de promoción existente-> 6300 
+Id insertado de promoción existente-> 6301 
+Id insertado de promoción existente-> 6302 
+Id insertado de promoción existente-> 6303 
+Id insertado de promoción existente-> 6304 
+Id insertado de promoción existente-> 6305 
+Id insertado de promoción existente-> 6306 
+Id insertado de promoción existente-> 6307 
+Id insertado de promoción existente-> 6308 
+Id insertado de promoción existente-> 6309 
+Id insertado de promoción existente-> 6310 
+Id insertado de promoción existente-> 6311 
+Id insertado de promoción existente-> 6312 
+Id insertado de promoción existente-> 6313 
+Id insertado de promoción existente-> 6314 
+Id insertado de promoción existente-> 6315 
+Id insertado de promoción existente-> 6316 
+Id insertado de promoción existente-> 6317 
+Id insertado de promoción existente-> 6318 
+Id insertado de promoción existente-> 6319 
+Id insertado de promoción existente-> 6320 
+Id insertado de promoción existente-> 6321 
+Id insertado de promoción existente-> 6322 
+Id insertado de promoción existente-> 6323 
+Id insertado de promoción existente-> 6324 
+Id insertado de promoción existente-> 6325 
+Id insertado de promoción existente-> 6326 
+Id insertado de promoción existente-> 6327 
+Id insertado de promoción existente-> 6328 
+Id insertado de promoción existente-> 6329 
+Id insertado de promoción existente-> 6330 

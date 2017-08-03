@@ -1,0 +1,94 @@
+Lineas correctas -> 43
+Total errores -> 0
+
+Id insertado de promoción nueva-> 1320 
+Id insertado de promoción nueva-> 1321 
+Id insertado de promoción nueva-> 1322 
+Id insertado de promoción nueva-> 1323 
+Id insertado de promoción nueva-> 1324 
+Id insertado de promoción nueva-> 1325 
+Id insertado de promoción nueva-> 1326 
+Fila: 9 - Error en base de datos - Cannot add or update a child row: a foreign key constraint fails (`promored_quesucede`.`promociones`, CONSTRAINT `fk_promociones_subcategorias1` FOREIGN KEY (`subcategorias_id_subcategoria`) REFERENCES `subcategorias` (`id_subcategoria`) ON DELETE NO ACTION ) 
+Id insertado de promoción nueva-> 1328 
+Id insertado de promoción nueva-> 1329 
+Id insertado de promoción nueva-> 1330 
+Id insertado de promoción nueva-> 1331 
+Id insertado de promoción nueva-> 1332 
+Id insertado de promoción nueva-> 1333 
+Id insertado de promoción nueva-> 1334 
+Id insertado de promoción nueva-> 1335 
+Id insertado de promoción nueva-> 1336 
+Id insertado de promoción nueva-> 1337 
+Id insertado de promoción nueva-> 1338 
+Id insertado de promoción nueva-> 1339 
+Id insertado de promoción nueva-> 1340 
+Id insertado de promoción nueva-> 1341 
+Id insertado de promoción nueva-> 1342 
+Id insertado de promoción nueva-> 1343 
+Id insertado de promoción nueva-> 1344 
+Id insertado de promoción nueva-> 1345 
+Id insertado de promoción nueva-> 1346 
+Id insertado de promoción nueva-> 1347 
+Id insertado de promoción nueva-> 1348 
+Id insertado de promoción nueva-> 1349 
+Id insertado de promoción nueva-> 1350 
+Id insertado de promoción nueva-> 1351 
+Id insertado de promoción nueva-> 1352 
+Id insertado de promoción nueva-> 1353 
+Id insertado de promoción nueva-> 1354 
+Id insertado de promoción nueva-> 1355 
+Id insertado de promoción nueva-> 1356 
+Id insertado de promoción nueva-> 1357 
+Id insertado de promoción nueva-> 1359 
+Id insertado de promoción nueva-> 1360 
+Id insertado de promoción nueva-> 1361 
+Id insertado de promoción nueva-> 1362 
+Id insertado de promoción nueva-> 1363 
+Id insertado de promoción nueva-> 1364 
+Lineas correctas -> 43
+Total errores -> 0
+
+Id insertado de promoción existente-> 3235 
+Id insertado de promoción existente-> 3236 
+Id insertado de promoción existente-> 3238 
+Id insertado de promoción existente-> 3239 
+Id insertado de promoción existente-> 3241 
+Id insertado de promoción existente-> 3242 
+Id insertado de promoción existente-> 3244 
+Fila: 9 - Error en base de datos - Cannot add or update a child row: a foreign key constraint fails (`promored_quesucede`.`promociones`, CONSTRAINT `fk_promociones_subcategorias1` FOREIGN KEY (`subcategorias_id_subcategoria`) REFERENCES `subcategorias` (`id_subcategoria`) ON DELETE NO ACTION ) 
+Id insertado de promoción existente-> 3246 
+Id insertado de promoción existente-> 3247 
+Id insertado de promoción existente-> 3249 
+Id insertado de promoción existente-> 3250 
+Id insertado de promoción existente-> 3251 
+Id insertado de promoción existente-> 3253 
+Id insertado de promoción existente-> 3254 
+Id insertado de promoción existente-> 3256 
+Id insertado de promoción existente-> 3257 
+Id insertado de promoción existente-> 3259 
+Id insertado de promoción existente-> 3260 
+Id insertado de promoción existente-> 3262 
+Id insertado de promoción existente-> 3263 
+Id insertado de promoción existente-> 3265 
+Id insertado de promoción existente-> 3266 
+Id insertado de promoción existente-> 3267 
+Id insertado de promoción existente-> 3268 
+Id insertado de promoción existente-> 3269 
+Id insertado de promoción existente-> 3270 
+Id insertado de promoción existente-> 3271 
+Id insertado de promoción existente-> 3272 
+Id insertado de promoción existente-> 3273 
+Id insertado de promoción existente-> 3274 
+Id insertado de promoción existente-> 3275 
+Id insertado de promoción existente-> 3276 
+Id insertado de promoción existente-> 3277 
+Id insertado de promoción existente-> 3278 
+Id insertado de promoción existente-> 3279 
+Id insertado de promoción existente-> 3280 
+Id insertado de promoción existente-> 3281 
+Id insertado de promoción existente-> 3282 
+Id insertado de promoción existente-> 3283 
+Id insertado de promoción existente-> 3284 
+Id insertado de promoción existente-> 3285 
+Id insertado de promoción existente-> 3286 
+Id insertado de promoción existente-> 3287 

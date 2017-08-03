@@ -1,0 +1,37 @@
+Lineas correctas -> 0
+Total errores -> 34
+
+Fila : 269:  Error al subir foto, Archivo: 201312181522910131121034.jpg 
+Fila : 270:  Error al subir foto, Archivo: 2013121815229101319239181036.jpg 
+Fila : 271:  Error al subir foto, Archivo: 2013121815229101319339411034.jpg 
+Fila : 272:  Error al subir foto, Archivo: 2013121815229101319439641036.jpg 
+Fila : 273:  Error al subir foto, Archivo: 2013121815229101319539871033.jpg 
+Fila : 274:  Error al subir foto, Archivo: 2013121815229101319640101035.jpg 
+Fila : 275:  Error al subir foto, Archivo: 2013121815229101319740331035.jpg 
+Fila : 276:  Error al subir foto, Archivo: 2013121815229101319840561115.jpg 
+Fila : 277:  Error al subir foto, Archivo: 2013121815229101319940791035.jpg 
+Fila : 278:  Error al subir foto, Archivo: 2013121815229101320041021036.jpg 
+Fila : 279:  Error al subir foto, Archivo: 2013121815229101320141251035.jpg 
+Fila : 280:  Error al subir foto, Archivo: 2013121815229101320241481114.jpg 
+Fila : 281:  Error al subir foto, Archivo: 2013121815229101320341711114.jpg 
+Fila : 282:  Error al subir foto, Archivo: 2013121815229101320441941114.jpg 
+Fila : 283:  Error al subir foto, Archivo: 2013121815229101320542171034.jpg 
+Fila : 284:  Error al subir foto, Archivo: 2013121815229101320642401035.jpg 
+Fila : 285:  Error al subir foto, Archivo: 2013121815229101320742631035.jpg 
+Fila : 286:  Error al subir foto, Archivo: 2013121815229101320842861114.jpg 
+Fila : 287:  Error al subir foto, Archivo: 2013121815229101320943091114.jpg 
+Fila : 288:  Error al subir foto, Archivo: 2013121815229101321043321115.jpg 
+Fila : 289:  Error al subir foto, Archivo: 201312241522910121121115.jpg 
+Fila : 290:  Error al subir foto, Archivo: 2013122415229101219239181035.jpg 
+Fila : 291:  Error al subir foto, Archivo: 2013122415229101219339411035.jpg 
+Fila : 292:  Error al subir foto, Archivo: 2013122415229101219439641035.jpg 
+Fila : 293:  Error al subir foto, Archivo: 2013122415229101219539871115.jpg 
+Fila : 294:  Error al subir foto, Archivo: 2013122415229101219640101035.jpg 
+Fila : 295:  Error al subir foto, Archivo: 2013122415229101219740331035.jpg 
+Fila : 296:  Error al subir foto, Archivo: 2013122415229101219840561035.jpg 
+Fila : 297:  Error al subir foto, Archivo: 2013122415229101219940791035.jpg 
+Fila : 298:  Error al subir foto, Archivo: 2013122415229101220041021115.jpg 
+Fila : 299:  Error al subir foto, Archivo: 2013122415229101220141251036.jpg 
+Fila : 300:  Error al subir foto, Archivo: 2013122415229101220241481034.jpg 
+Fila : 301:  Error al subir foto, Archivo: 2013122415229101220341711034.jpg 
+Fila : 302:  Error al subir foto, Archivo: 2013122415229101220441941034.jpg 

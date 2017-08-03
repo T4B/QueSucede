@@ -1,0 +1,5 @@
+Lineas correctas -> 2
+Total errores -> 0
+
+Id insertado de promoción existente-> 939 
+Id insertado de promoción existente-> 940 

@@ -1,0 +1,5 @@
+Lineas correctas -> 0
+Total errores -> 2
+
+Fila : 2:  Error al subir foto, Archivo: 201405061899314321125470.jpg 
+Fila : 3:  Error al subir foto, Archivo: 2014050815229100519339415472.jpg 

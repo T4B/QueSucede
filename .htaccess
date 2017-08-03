@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on 
+   RewriteCond $1 !^(index.php|info.php|css|js|images|javascripts|captcha_dir|robots.txt|fonts|src_folletos|test|googled2f42e52ea981e7a.html) 
+   RewriteRule ^(.*)$ /index.php/$1 [L]
+</IfModule>

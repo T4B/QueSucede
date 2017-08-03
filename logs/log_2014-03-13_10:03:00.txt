@@ -1,0 +1,21 @@
+Lineas correctas -> 18
+Total errores -> 0
+
+Id insertado de promoción nueva-> 930 
+Id insertado de promoción nueva-> 931 
+Id insertado de promoción nueva-> 932 
+Id insertado de promoción nueva-> 933 
+Id insertado de promoción nueva-> 934 
+Id insertado de promoción nueva-> 935 
+Id insertado de promoción nueva-> 936 
+Id insertado de promoción nueva-> 937 
+Id insertado de promoción nueva-> 938 
+Id insertado de promoción nueva-> 939 
+Id insertado de promoción nueva-> 940 
+Id insertado de promoción nueva-> 941 
+Id insertado de promoción nueva-> 942 
+Id insertado de promoción nueva-> 943 
+Id insertado de promoción nueva-> 944 
+Id insertado de promoción nueva-> 945 
+Id insertado de promoción nueva-> 946 
+Id insertado de promoción nueva-> 947 

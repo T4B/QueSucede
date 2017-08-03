@@ -1,0 +1,611 @@
+Lineas correctas -> 516
+Total errores -> 92
+
+Fila : 2:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7761 
+Id insertado de promoción existente-> 7762 
+Id insertado de promoción existente-> 7763 
+Id insertado de promoción existente-> 7764 
+Id insertado de promoción existente-> 7765 
+Fila : 8:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7766 
+Fila : 10:  Error al subir foto, Archivo: 0 
+Fila : 11:  Error al subir foto, Archivo: 0 
+Fila : 12:  Error al subir foto, Archivo: 0 
+Fila : 13:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7767 
+Id insertado de promoción existente-> 7768 
+Fila : 16:  Error al subir foto, Archivo: 0 
+Fila : 17:  Error al subir foto, Archivo: 0 
+Fila : 18:  Error al subir foto, Archivo: 0 
+Fila : 19:  Error al subir foto, Archivo: 0 
+Fila : 20:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7769 
+Id insertado de promoción existente-> 7770 
+Id insertado de promoción existente-> 7771 
+Id insertado de promoción existente-> 7772 
+Id insertado de promoción existente-> 7773 
+Id insertado de promoción existente-> 7774 
+Id insertado de promoción existente-> 7775 
+Id insertado de promoción existente-> 7776 
+Id insertado de promoción existente-> 7777 
+Id insertado de promoción existente-> 7778 
+Id insertado de promoción existente-> 7779 
+Id insertado de promoción existente-> 7780 
+Id insertado de promoción existente-> 7781 
+Id insertado de promoción existente-> 7782 
+Id insertado de promoción existente-> 7783 
+Id insertado de promoción existente-> 7784 
+Id insertado de promoción existente-> 7785 
+Id insertado de promoción existente-> 7786 
+Id insertado de promoción existente-> 7787 
+Id insertado de promoción existente-> 7788 
+Id insertado de promoción existente-> 7789 
+Id insertado de promoción existente-> 7790 
+Id insertado de promoción existente-> 7791 
+Id insertado de promoción existente-> 7792 
+Id insertado de promoción existente-> 7793 
+Id insertado de promoción existente-> 7794 
+Id insertado de promoción existente-> 7795 
+Id insertado de promoción existente-> 7796 
+Id insertado de promoción existente-> 7797 
+Id insertado de promoción existente-> 7798 
+Id insertado de promoción existente-> 7799 
+Fila : 52:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7800 
+Fila : 54:  Error al subir foto, Archivo: 0 
+Fila : 55:  Error al subir foto, Archivo: 0 
+Fila : 56:  Error al subir foto, Archivo: 0 
+Fila : 57:  Error al subir foto, Archivo: 0 
+Fila : 58:  Error al subir foto, Archivo: 0 
+Fila : 59:  Error al subir foto, Archivo: 0 
+Fila : 60:  Error al subir foto, Archivo: 0 
+Fila : 61:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7801 
+Id insertado de promoción existente-> 7802 
+Id insertado de promoción existente-> 7803 
+Fila : 65:  Error al subir foto, Archivo: 0 
+Fila : 66:  Error al subir foto, Archivo: 0 
+Fila : 67:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7804 
+Fila : 69:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7805 
+Id insertado de promoción existente-> 7806 
+Fila : 72:  Error al subir foto, Archivo: 0 
+Fila : 73:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7807 
+Fila : 75:  Error al subir foto, Archivo: 0 
+Fila : 76:  Error al subir foto, Archivo: 0 
+Fila : 77:  Error al subir foto, Archivo: 0 
+Fila : 78:  Error al subir foto, Archivo: 0 
+Fila : 79:  Error al subir foto, Archivo: 0 
+Fila : 80:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7808 
+Fila : 82:  Error al subir foto, Archivo: 0 
+Fila : 83:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7809 
+Id insertado de promoción existente-> 7810 
+Fila : 86:  Error al subir foto, Archivo: 0 
+Fila : 87:  Error al subir foto, Archivo: 0 
+Fila : 88:  Error al subir foto, Archivo: 0 
+Fila : 89:  Error al subir foto, Archivo: 0 
+Fila : 90:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7811 
+Id insertado de promoción existente-> 7812 
+Fila : 93:  Error al subir foto, Archivo: 0 
+Fila : 94:  Error al subir foto, Archivo: 0 
+Fila : 95:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7813 
+Fila : 97:  Error al subir foto, Archivo: 0 
+Fila : 98:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7814 
+Fila : 100:  Error al subir foto, Archivo: 0 
+Fila : 101:  Error al subir foto, Archivo: 0 
+Fila : 102:  Error al subir foto, Archivo: 0 
+Fila : 103:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7815 
+Fila : 105:  Error al subir foto, Archivo: 0 
+Fila : 106:  Error al subir foto, Archivo: 0 
+Fila : 107:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7816 
+Fila : 109:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7817 
+Fila : 111:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7818 
+Id insertado de promoción existente-> 7819 
+Id insertado de promoción existente-> 7820 
+Fila : 115:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7821 
+Fila : 117:  Error al subir foto, Archivo: 0 
+Fila : 118:  Error al subir foto, Archivo: 0 
+Fila : 119:  Error al subir foto, Archivo: 0 
+Fila : 120:  Error al subir foto, Archivo: 0 
+Fila : 121:  Error al subir foto, Archivo: 0 
+Fila : 122:  Error al subir foto, Archivo: 0 
+Fila : 123:  Error al subir foto, Archivo: 0 
+Fila : 124:  Error al subir foto, Archivo: 0 
+Fila : 125:  Error al subir foto, Archivo: 0 
+Fila : 126:  Error al subir foto, Archivo: 0 
+Fila : 127:  Error al subir foto, Archivo: 0 
+Fila : 128:  Error al subir foto, Archivo: 0 
+Fila : 129:  Error al subir foto, Archivo: 0 
+Fila : 130:  Error al subir foto, Archivo: 0 
+Fila : 131:  Error al subir foto, Archivo: 0 
+Fila : 132:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7822 
+Id insertado de promoción existente-> 7823 
+Id insertado de promoción existente-> 7824 
+Id insertado de promoción existente-> 7825 
+Id insertado de promoción existente-> 7826 
+Id insertado de promoción existente-> 7827 
+Id insertado de promoción existente-> 7828 
+Id insertado de promoción existente-> 7829 
+Id insertado de promoción existente-> 7830 
+Id insertado de promoción existente-> 7831 
+Id insertado de promoción existente-> 7832 
+Id insertado de promoción existente-> 7833 
+Id insertado de promoción existente-> 7834 
+Fila : 146:  Error al subir foto, Archivo: 0 
+Fila : 147:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7835 
+Id insertado de promoción existente-> 7836 
+Id insertado de promoción existente-> 7837 
+Id insertado de promoción existente-> 7838 
+Id insertado de promoción existente-> 7839 
+Id insertado de promoción existente-> 7840 
+Id insertado de promoción existente-> 7841 
+Id insertado de promoción existente-> 7842 
+Fila : 156:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7843 
+Fila : 158:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7844 
+Id insertado de promoción existente-> 7845 
+Id insertado de promoción existente-> 7846 
+Id insertado de promoción existente-> 7847 
+Id insertado de promoción existente-> 7848 
+Id insertado de promoción existente-> 7849 
+Id insertado de promoción existente-> 7850 
+Id insertado de promoción existente-> 7851 
+Id insertado de promoción existente-> 7852 
+Id insertado de promoción existente-> 7853 
+Id insertado de promoción existente-> 7854 
+Id insertado de promoción existente-> 7855 
+Id insertado de promoción existente-> 7856 
+Id insertado de promoción existente-> 7857 
+Id insertado de promoción existente-> 7858 
+Id insertado de promoción existente-> 7859 
+Id insertado de promoción existente-> 7860 
+Id insertado de promoción existente-> 7861 
+Id insertado de promoción existente-> 7862 
+Id insertado de promoción existente-> 7863 
+Id insertado de promoción existente-> 7864 
+Id insertado de promoción existente-> 7865 
+Id insertado de promoción existente-> 7866 
+Id insertado de promoción existente-> 7867 
+Id insertado de promoción existente-> 7868 
+Fila : 184:  Error al subir foto, Archivo: 0 
+Fila : 185:  Error al subir foto, Archivo: 0 
+Fila : 186:  Error al subir foto, Archivo: 0 
+Fila : 187:  Error al subir foto, Archivo: 0 
+Fila : 188:  Error al subir foto, Archivo: 0 
+Fila : 189:  Error al subir foto, Archivo: 0 
+Fila : 190:  Error al subir foto, Archivo: 0 
+Fila : 191:  Error al subir foto, Archivo: 0 
+Fila : 192:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7869 
+Id insertado de promoción existente-> 7870 
+Id insertado de promoción existente-> 7871 
+Id insertado de promoción existente-> 7872 
+Id insertado de promoción existente-> 7873 
+Id insertado de promoción existente-> 7874 
+Id insertado de promoción existente-> 7875 
+Id insertado de promoción existente-> 7876 
+Id insertado de promoción existente-> 7877 
+Id insertado de promoción existente-> 7878 
+Id insertado de promoción existente-> 7879 
+Id insertado de promoción existente-> 7880 
+Id insertado de promoción existente-> 7881 
+Id insertado de promoción existente-> 7882 
+Id insertado de promoción existente-> 7883 
+Id insertado de promoción existente-> 7884 
+Id insertado de promoción existente-> 7885 
+Id insertado de promoción existente-> 7886 
+Id insertado de promoción existente-> 7887 
+Id insertado de promoción existente-> 7888 
+Id insertado de promoción existente-> 7889 
+Id insertado de promoción existente-> 7890 
+Id insertado de promoción existente-> 7891 
+Id insertado de promoción existente-> 7892 
+Id insertado de promoción existente-> 7893 
+Id insertado de promoción existente-> 7894 
+Id insertado de promoción existente-> 7895 
+Id insertado de promoción existente-> 7896 
+Id insertado de promoción existente-> 7897 
+Id insertado de promoción existente-> 7898 
+Id insertado de promoción existente-> 7899 
+Id insertado de promoción existente-> 7900 
+Id insertado de promoción existente-> 7901 
+Id insertado de promoción existente-> 7902 
+Id insertado de promoción existente-> 7903 
+Id insertado de promoción existente-> 7904 
+Id insertado de promoción existente-> 7905 
+Id insertado de promoción existente-> 7906 
+Id insertado de promoción existente-> 7907 
+Id insertado de promoción existente-> 7908 
+Id insertado de promoción existente-> 7909 
+Id insertado de promoción existente-> 7910 
+Id insertado de promoción existente-> 7911 
+Id insertado de promoción existente-> 7912 
+Id insertado de promoción existente-> 7913 
+Id insertado de promoción existente-> 7914 
+Id insertado de promoción existente-> 7915 
+Id insertado de promoción existente-> 7916 
+Id insertado de promoción existente-> 7917 
+Id insertado de promoción existente-> 7918 
+Id insertado de promoción existente-> 7919 
+Id insertado de promoción existente-> 7920 
+Id insertado de promoción existente-> 7921 
+Id insertado de promoción existente-> 7922 
+Id insertado de promoción existente-> 7923 
+Id insertado de promoción existente-> 7924 
+Id insertado de promoción existente-> 7925 
+Id insertado de promoción existente-> 7926 
+Id insertado de promoción existente-> 7927 
+Id insertado de promoción existente-> 7928 
+Id insertado de promoción existente-> 7929 
+Id insertado de promoción existente-> 7930 
+Id insertado de promoción existente-> 7931 
+Id insertado de promoción existente-> 7932 
+Id insertado de promoción existente-> 7933 
+Id insertado de promoción existente-> 7934 
+Id insertado de promoción existente-> 7935 
+Id insertado de promoción existente-> 7936 
+Id insertado de promoción existente-> 7937 
+Id insertado de promoción existente-> 7938 
+Id insertado de promoción existente-> 7939 
+Id insertado de promoción existente-> 7940 
+Id insertado de promoción existente-> 7941 
+Id insertado de promoción existente-> 7942 
+Id insertado de promoción existente-> 7943 
+Id insertado de promoción existente-> 7944 
+Id insertado de promoción existente-> 7945 
+Id insertado de promoción existente-> 7946 
+Id insertado de promoción existente-> 7947 
+Id insertado de promoción existente-> 7948 
+Id insertado de promoción existente-> 7949 
+Id insertado de promoción existente-> 7950 
+Id insertado de promoción existente-> 7951 
+Id insertado de promoción existente-> 7952 
+Id insertado de promoción existente-> 7953 
+Id insertado de promoción existente-> 7954 
+Id insertado de promoción existente-> 7955 
+Id insertado de promoción existente-> 7956 
+Id insertado de promoción existente-> 7957 
+Id insertado de promoción existente-> 7958 
+Fila : 283:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7959 
+Id insertado de promoción existente-> 7960 
+Id insertado de promoción existente-> 7961 
+Id insertado de promoción existente-> 7962 
+Id insertado de promoción existente-> 7963 
+Id insertado de promoción existente-> 7964 
+Id insertado de promoción existente-> 7965 
+Id insertado de promoción existente-> 7966 
+Id insertado de promoción existente-> 7967 
+Id insertado de promoción existente-> 7968 
+Id insertado de promoción existente-> 7969 
+Id insertado de promoción existente-> 7970 
+Id insertado de promoción existente-> 7971 
+Id insertado de promoción existente-> 7972 
+Id insertado de promoción existente-> 7973 
+Id insertado de promoción existente-> 7974 
+Id insertado de promoción existente-> 7975 
+Id insertado de promoción existente-> 7976 
+Id insertado de promoción existente-> 7977 
+Id insertado de promoción existente-> 7978 
+Id insertado de promoción existente-> 7979 
+Id insertado de promoción existente-> 7980 
+Id insertado de promoción existente-> 7981 
+Id insertado de promoción existente-> 7982 
+Id insertado de promoción existente-> 7983 
+Id insertado de promoción existente-> 7984 
+Id insertado de promoción existente-> 7985 
+Id insertado de promoción existente-> 7986 
+Id insertado de promoción existente-> 7987 
+Id insertado de promoción existente-> 7988 
+Id insertado de promoción existente-> 7989 
+Id insertado de promoción existente-> 7990 
+Id insertado de promoción existente-> 7991 
+Id insertado de promoción existente-> 7992 
+Fila : 318:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 7993 
+Id insertado de promoción existente-> 7994 
+Id insertado de promoción existente-> 7995 
+Id insertado de promoción existente-> 7996 
+Id insertado de promoción existente-> 7997 
+Id insertado de promoción existente-> 7998 
+Id insertado de promoción existente-> 7999 
+Id insertado de promoción existente-> 8000 
+Id insertado de promoción existente-> 8001 
+Id insertado de promoción existente-> 8002 
+Id insertado de promoción existente-> 8003 
+Id insertado de promoción existente-> 8004 
+Id insertado de promoción existente-> 8005 
+Id insertado de promoción existente-> 8006 
+Id insertado de promoción existente-> 8007 
+Id insertado de promoción existente-> 8008 
+Id insertado de promoción existente-> 8009 
+Id insertado de promoción existente-> 8010 
+Id insertado de promoción existente-> 8011 
+Id insertado de promoción existente-> 8012 
+Id insertado de promoción existente-> 8013 
+Id insertado de promoción existente-> 8014 
+Id insertado de promoción existente-> 8015 
+Id insertado de promoción existente-> 8016 
+Id insertado de promoción existente-> 8017 
+Id insertado de promoción existente-> 8018 
+Id insertado de promoción existente-> 8019 
+Id insertado de promoción existente-> 8020 
+Id insertado de promoción existente-> 8021 
+Id insertado de promoción existente-> 8022 
+Id insertado de promoción existente-> 8023 
+Id insertado de promoción existente-> 8024 
+Id insertado de promoción existente-> 8025 
+Id insertado de promoción existente-> 8026 
+Id insertado de promoción existente-> 8027 
+Id insertado de promoción existente-> 8028 
+Id insertado de promoción existente-> 8029 
+Id insertado de promoción existente-> 8030 
+Id insertado de promoción existente-> 8031 
+Id insertado de promoción existente-> 8032 
+Id insertado de promoción existente-> 8033 
+Id insertado de promoción existente-> 8034 
+Id insertado de promoción existente-> 8035 
+Id insertado de promoción existente-> 8036 
+Id insertado de promoción existente-> 8037 
+Id insertado de promoción existente-> 8038 
+Id insertado de promoción existente-> 8039 
+Id insertado de promoción existente-> 8040 
+Id insertado de promoción existente-> 8041 
+Id insertado de promoción existente-> 8042 
+Id insertado de promoción existente-> 8043 
+Id insertado de promoción existente-> 8044 
+Id insertado de promoción existente-> 8045 
+Id insertado de promoción existente-> 8046 
+Id insertado de promoción existente-> 8047 
+Id insertado de promoción existente-> 8048 
+Id insertado de promoción existente-> 8049 
+Id insertado de promoción existente-> 8050 
+Id insertado de promoción existente-> 8051 
+Id insertado de promoción existente-> 8052 
+Id insertado de promoción existente-> 8053 
+Id insertado de promoción existente-> 8054 
+Id insertado de promoción existente-> 8055 
+Id insertado de promoción existente-> 8056 
+Id insertado de promoción existente-> 8057 
+Id insertado de promoción existente-> 8058 
+Id insertado de promoción existente-> 8059 
+Id insertado de promoción existente-> 8060 
+Id insertado de promoción existente-> 8061 
+Id insertado de promoción existente-> 8062 
+Id insertado de promoción existente-> 8063 
+Id insertado de promoción existente-> 8064 
+Id insertado de promoción existente-> 8065 
+Id insertado de promoción existente-> 8066 
+Id insertado de promoción existente-> 8067 
+Id insertado de promoción existente-> 8068 
+Id insertado de promoción existente-> 8069 
+Id insertado de promoción existente-> 8070 
+Id insertado de promoción existente-> 8071 
+Id insertado de promoción existente-> 8072 
+Id insertado de promoción existente-> 8073 
+Id insertado de promoción existente-> 8074 
+Id insertado de promoción existente-> 8075 
+Id insertado de promoción existente-> 8076 
+Id insertado de promoción existente-> 8077 
+Id insertado de promoción existente-> 8078 
+Id insertado de promoción existente-> 8079 
+Id insertado de promoción existente-> 8080 
+Id insertado de promoción existente-> 8081 
+Id insertado de promoción existente-> 8082 
+Id insertado de promoción existente-> 8083 
+Id insertado de promoción existente-> 8084 
+Id insertado de promoción existente-> 8085 
+Id insertado de promoción existente-> 8086 
+Id insertado de promoción existente-> 8087 
+Id insertado de promoción existente-> 8088 
+Id insertado de promoción existente-> 8089 
+Id insertado de promoción existente-> 8090 
+Id insertado de promoción existente-> 8091 
+Id insertado de promoción existente-> 8092 
+Id insertado de promoción existente-> 8093 
+Id insertado de promoción existente-> 8094 
+Id insertado de promoción existente-> 8095 
+Id insertado de promoción existente-> 8096 
+Id insertado de promoción existente-> 8097 
+Id insertado de promoción existente-> 8098 
+Id insertado de promoción existente-> 8099 
+Id insertado de promoción existente-> 8100 
+Id insertado de promoción existente-> 8101 
+Id insertado de promoción existente-> 8102 
+Id insertado de promoción existente-> 8103 
+Id insertado de promoción existente-> 8104 
+Id insertado de promoción existente-> 8105 
+Id insertado de promoción existente-> 8106 
+Id insertado de promoción existente-> 8107 
+Id insertado de promoción existente-> 8108 
+Id insertado de promoción existente-> 8109 
+Id insertado de promoción existente-> 8110 
+Id insertado de promoción existente-> 8111 
+Id insertado de promoción existente-> 8112 
+Id insertado de promoción existente-> 8113 
+Id insertado de promoción existente-> 8114 
+Id insertado de promoción existente-> 8115 
+Id insertado de promoción existente-> 8116 
+Id insertado de promoción existente-> 8117 
+Id insertado de promoción existente-> 8118 
+Id insertado de promoción existente-> 8119 
+Id insertado de promoción existente-> 8120 
+Id insertado de promoción existente-> 8121 
+Id insertado de promoción existente-> 8122 
+Id insertado de promoción existente-> 8123 
+Id insertado de promoción existente-> 8124 
+Id insertado de promoción existente-> 8125 
+Id insertado de promoción existente-> 8126 
+Id insertado de promoción existente-> 8127 
+Id insertado de promoción existente-> 8128 
+Id insertado de promoción existente-> 8129 
+Id insertado de promoción existente-> 8130 
+Id insertado de promoción existente-> 8131 
+Id insertado de promoción existente-> 8132 
+Id insertado de promoción existente-> 8133 
+Id insertado de promoción existente-> 8134 
+Id insertado de promoción existente-> 8135 
+Id insertado de promoción existente-> 8136 
+Id insertado de promoción existente-> 8137 
+Id insertado de promoción existente-> 8138 
+Id insertado de promoción existente-> 8139 
+Id insertado de promoción existente-> 8140 
+Id insertado de promoción existente-> 8141 
+Id insertado de promoción existente-> 8142 
+Id insertado de promoción existente-> 8143 
+Id insertado de promoción existente-> 8144 
+Id insertado de promoción existente-> 8145 
+Id insertado de promoción existente-> 8146 
+Id insertado de promoción existente-> 8147 
+Id insertado de promoción existente-> 8148 
+Id insertado de promoción existente-> 8149 
+Id insertado de promoción existente-> 8150 
+Id insertado de promoción existente-> 8151 
+Id insertado de promoción existente-> 8152 
+Id insertado de promoción existente-> 8153 
+Id insertado de promoción existente-> 8154 
+Id insertado de promoción existente-> 8155 
+Id insertado de promoción existente-> 8156 
+Id insertado de promoción existente-> 8157 
+Id insertado de promoción existente-> 8158 
+Fila : 485:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 8159 
+Id insertado de promoción existente-> 8160 
+Id insertado de promoción existente-> 8161 
+Id insertado de promoción existente-> 8162 
+Id insertado de promoción existente-> 8163 
+Fila : 491:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 8164 
+Id insertado de promoción existente-> 8165 
+Id insertado de promoción existente-> 8166 
+Id insertado de promoción existente-> 8167 
+Id insertado de promoción existente-> 8168 
+Id insertado de promoción existente-> 8169 
+Id insertado de promoción existente-> 8170 
+Id insertado de promoción existente-> 8171 
+Id insertado de promoción existente-> 8172 
+Id insertado de promoción existente-> 8173 
+Id insertado de promoción existente-> 8174 
+Id insertado de promoción existente-> 8175 
+Id insertado de promoción existente-> 8176 
+Id insertado de promoción existente-> 8177 
+Id insertado de promoción existente-> 8178 
+Id insertado de promoción existente-> 8179 
+Id insertado de promoción existente-> 8180 
+Id insertado de promoción existente-> 8181 
+Id insertado de promoción existente-> 8182 
+Id insertado de promoción existente-> 8183 
+Id insertado de promoción existente-> 8184 
+Id insertado de promoción existente-> 8185 
+Id insertado de promoción existente-> 8186 
+Id insertado de promoción existente-> 8187 
+Id insertado de promoción existente-> 8188 
+Id insertado de promoción existente-> 8189 
+Id insertado de promoción existente-> 8190 
+Id insertado de promoción existente-> 8191 
+Id insertado de promoción existente-> 8192 
+Id insertado de promoción existente-> 8193 
+Id insertado de promoción existente-> 8194 
+Id insertado de promoción existente-> 8195 
+Id insertado de promoción existente-> 8196 
+Id insertado de promoción existente-> 8197 
+Id insertado de promoción existente-> 8198 
+Id insertado de promoción existente-> 8199 
+Id insertado de promoción existente-> 8200 
+Id insertado de promoción existente-> 8201 
+Id insertado de promoción existente-> 8202 
+Id insertado de promoción existente-> 8203 
+Id insertado de promoción existente-> 8204 
+Id insertado de promoción existente-> 8205 
+Id insertado de promoción existente-> 8206 
+Id insertado de promoción existente-> 8207 
+Id insertado de promoción existente-> 8208 
+Id insertado de promoción existente-> 8209 
+Id insertado de promoción existente-> 8210 
+Id insertado de promoción existente-> 8211 
+Id insertado de promoción existente-> 8212 
+Id insertado de promoción existente-> 8213 
+Id insertado de promoción existente-> 8214 
+Id insertado de promoción existente-> 8215 
+Id insertado de promoción existente-> 8216 
+Id insertado de promoción existente-> 8217 
+Id insertado de promoción existente-> 8218 
+Id insertado de promoción existente-> 8219 
+Id insertado de promoción existente-> 8220 
+Id insertado de promoción existente-> 8221 
+Id insertado de promoción existente-> 8222 
+Id insertado de promoción existente-> 8223 
+Id insertado de promoción existente-> 8224 
+Id insertado de promoción existente-> 8225 
+Id insertado de promoción existente-> 8226 
+Id insertado de promoción existente-> 8227 
+Id insertado de promoción existente-> 8228 
+Id insertado de promoción existente-> 8229 
+Id insertado de promoción existente-> 8230 
+Fila : 559:  Error al subir foto, Archivo: 0 
+Fila : 560:  Error al subir foto, Archivo: 0 
+Id insertado de promoción existente-> 8231 
+Id insertado de promoción existente-> 8232 
+Id insertado de promoción existente-> 8233 
+Id insertado de promoción existente-> 8234 
+Id insertado de promoción existente-> 8235 
+Id insertado de promoción existente-> 8236 
+Id insertado de promoción existente-> 8237 
+Id insertado de promoción existente-> 8238 
+Id insertado de promoción existente-> 8239 
+Id insertado de promoción existente-> 8240 
+Id insertado de promoción existente-> 8241 
+Id insertado de promoción existente-> 8242 
+Id insertado de promoción existente-> 8243 
+Id insertado de promoción existente-> 8244 
+Id insertado de promoción existente-> 8245 
+Id insertado de promoción existente-> 8246 
+Id insertado de promoción existente-> 8247 
+Id insertado de promoción existente-> 8248 
+Id insertado de promoción existente-> 8249 
+Id insertado de promoción existente-> 8250 
+Id insertado de promoción existente-> 8251 
+Id insertado de promoción existente-> 8252 
+Id insertado de promoción existente-> 8253 
+Id insertado de promoción existente-> 8254 
+Id insertado de promoción existente-> 8255 
+Id insertado de promoción existente-> 8256 
+Id insertado de promoción existente-> 8257 
+Id insertado de promoción existente-> 8258 
+Id insertado de promoción existente-> 8259 
+Id insertado de promoción existente-> 8260 
+Id insertado de promoción existente-> 8261 
+Id insertado de promoción existente-> 8262 
+Id insertado de promoción existente-> 8263 
+Id insertado de promoción existente-> 8264 
+Id insertado de promoción existente-> 8265 
+Id insertado de promoción existente-> 8266 
+Id insertado de promoción existente-> 8267 
+Id insertado de promoción existente-> 8268 
+Id insertado de promoción existente-> 8269 
+Id insertado de promoción existente-> 8270 
+Id insertado de promoción existente-> 8271 
+Id insertado de promoción existente-> 8272 
+Id insertado de promoción existente-> 8273 
+Id insertado de promoción existente-> 8274 
+Id insertado de promoción existente-> 8275 
+Id insertado de promoción existente-> 8276 
+Fila : 607:  Error al subir foto, Archivo: 0 
+Fila : 608:  Error al subir foto, Archivo: 0 
+Fila : 609:  Error al subir foto, Archivo: 0 

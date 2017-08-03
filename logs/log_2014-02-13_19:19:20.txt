@@ -1,0 +1,10 @@
+Lineas correctas -> 7
+Total errores -> 0
+
+Id insertado de promoción nueva-> 584 
+Id insertado de promoción nueva-> 585 
+Id insertado de promoción nueva-> 586 
+Id insertado de promoción nueva-> 587 
+Id insertado de promoción nueva-> 588 
+Id insertado de promoción nueva-> 589 
+Id insertado de promoción nueva-> 590 

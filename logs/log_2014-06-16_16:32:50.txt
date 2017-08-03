@@ -1,0 +1,26 @@
+Lineas correctas -> 23
+Total errores -> 0
+
+Id insertado de promoción existente-> 8844 
+Id insertado de promoción existente-> 8845 
+Id insertado de promoción existente-> 8846 
+Id insertado de promoción existente-> 8847 
+Id insertado de promoción existente-> 8848 
+Id insertado de promoción existente-> 8849 
+Id insertado de promoción existente-> 8850 
+Id insertado de promoción existente-> 8851 
+Id insertado de promoción existente-> 8852 
+Id insertado de promoción existente-> 8853 
+Id insertado de promoción existente-> 8854 
+Id insertado de promoción existente-> 8855 
+Id insertado de promoción existente-> 8856 
+Id insertado de promoción existente-> 8857 
+Id insertado de promoción existente-> 8858 
+Id insertado de promoción existente-> 8859 
+Id insertado de promoción existente-> 8860 
+Id insertado de promoción existente-> 8861 
+Id insertado de promoción existente-> 8862 
+Id insertado de promoción existente-> 8863 
+Id insertado de promoción existente-> 8864 
+Id insertado de promoción existente-> 8865 
+Id insertado de promoción existente-> 8866 

@@ -1,0 +1,29 @@
+Lineas correctas -> 26
+Total errores -> 0
+
+Id insertado de promoción nueva-> 846 
+Id insertado de promoción nueva-> 847 
+Id insertado de promoción nueva-> 848 
+Id insertado de promoción nueva-> 849 
+Id insertado de promoción nueva-> 850 
+Id insertado de promoción nueva-> 851 
+Id insertado de promoción nueva-> 852 
+Id insertado de promoción nueva-> 853 
+Id insertado de promoción nueva-> 854 
+Id insertado de promoción nueva-> 855 
+Id insertado de promoción nueva-> 856 
+Id insertado de promoción nueva-> 857 
+Id insertado de promoción nueva-> 858 
+Id insertado de promoción nueva-> 859 
+Id insertado de promoción nueva-> 860 
+Id insertado de promoción nueva-> 861 
+Id insertado de promoción nueva-> 862 
+Id insertado de promoción nueva-> 863 
+Id insertado de promoción nueva-> 864 
+Id insertado de promoción nueva-> 865 
+Id insertado de promoción nueva-> 866 
+Id insertado de promoción nueva-> 867 
+Id insertado de promoción nueva-> 868 
+Id insertado de promoción nueva-> 869 
+Id insertado de promoción nueva-> 870 
+Id insertado de promoción nueva-> 871 

@@ -1,0 +1,4 @@
+Lineas correctas -> 531
+Total errores -> 1
+
+Fila : 60:  Error al subir foto, Archivo: 0 

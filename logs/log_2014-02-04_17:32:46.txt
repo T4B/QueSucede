@@ -1,0 +1,9 @@
+Lineas correctas -> 6
+Total errores -> 0
+
+Id insertado de promoción nueva-> 1 
+Id insertado de promoción nueva-> 2 
+Id insertado de promoción nueva-> 3 
+Id insertado de promoción nueva-> 4 
+Id insertado de promoción nueva-> 5 
+Id insertado de promoción nueva-> 6 

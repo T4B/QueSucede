@@ -1,0 +1,4 @@
+Lineas correctas -> 333
+Total errores -> 1
+
+Fila : 335: El id de categoría debe ser numérico. 

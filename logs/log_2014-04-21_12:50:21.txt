@@ -1,0 +1,14 @@
+Lineas correctas -> 476
+Total errores -> 11
+
+Fila : 151:  Error al subir foto, Archivo: 0 
+Fila : 152:  Error al subir foto, Archivo: 0 
+Fila : 153:  Error al subir foto, Archivo: 0 
+Fila : 154:  Error al subir foto, Archivo: 0 
+Fila : 202:  Error al subir foto, Archivo: 0 
+Fila : 203:  Error al subir foto, Archivo: 0 
+Fila : 240:  Error al subir foto, Archivo: 0 
+Fila : 306:  Error al subir foto, Archivo: 0 
+Fila : 350:  Error al subir foto, Archivo: 0 
+Fila : 369:  Error al subir foto, Archivo: 0 
+Fila : 408:  Error al subir foto, Archivo: 0 

@@ -1,0 +1,15 @@
+Lineas correctas -> 12
+Total errores -> 0
+
+Id insertado de promoción nueva-> 700 
+Id insertado de promoción nueva-> 701 
+Id insertado de promoción nueva-> 702 
+Id insertado de promoción nueva-> 703 
+Id insertado de promoción nueva-> 704 
+Id insertado de promoción nueva-> 705 
+Id insertado de promoción nueva-> 706 
+Id insertado de promoción nueva-> 707 
+Id insertado de promoción nueva-> 708 
+Id insertado de promoción nueva-> 709 
+Id insertado de promoción nueva-> 710 
+Id insertado de promoción nueva-> 711 

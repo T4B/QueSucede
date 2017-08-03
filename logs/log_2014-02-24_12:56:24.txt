@@ -1,0 +1,15 @@
+Lineas correctas -> 12
+Total errores -> 0
+
+Id insertado de promoción nueva-> 712 
+Id insertado de promoción nueva-> 713 
+Id insertado de promoción nueva-> 714 
+Id insertado de promoción nueva-> 715 
+Id insertado de promoción nueva-> 716 
+Id insertado de promoción nueva-> 717 
+Id insertado de promoción nueva-> 718 
+Id insertado de promoción nueva-> 719 
+Id insertado de promoción nueva-> 720 
+Id insertado de promoción nueva-> 721 
+Id insertado de promoción nueva-> 722 
+Id insertado de promoción nueva-> 723 

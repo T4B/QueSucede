@@ -1,0 +1,43 @@
+Lineas correctas -> 95
+Total errores -> 40
+
+Fila : 52:  Error al subir foto, Archivo: 0 
+Fila : 54:  Error al subir foto, Archivo: 0 
+Fila : 55:  Error al subir foto, Archivo: 0 
+Fila : 59:  Error al subir foto, Archivo: 0 
+Fila : 60:  Error al subir foto, Archivo: 0 
+Fila : 61:  Error al subir foto, Archivo: 0 
+Fila : 69: El id de formato debe ser numérico. 
+Fila : 70: El id de formato debe ser numérico. 
+Fila : 71: El id de formato debe ser numérico. 
+Fila : 72: El id de formato debe ser numérico. 
+Fila : 73: El id de formato debe ser numérico. 
+Fila : 74: El id de formato debe ser numérico. 
+Fila : 75: El id de formato debe ser numérico. 
+Fila : 76: El id de formato debe ser numérico. 
+Fila : 77: El id de formato debe ser numérico. 
+Fila : 78: El id de formato debe ser numérico. 
+Fila : 79: El id de formato debe ser numérico. 
+Fila : 80: El id de formato debe ser numérico. 
+Fila : 81: El id de formato debe ser numérico. 
+Fila : 82: El id de formato debe ser numérico. 
+Fila : 83: El id de formato debe ser numérico. 
+Fila : 84: El id de formato debe ser numérico. 
+Fila : 85: El id de formato debe ser numérico. 
+Fila : 86: El id de formato debe ser numérico. 
+Fila : 87: El id de formato debe ser numérico. 
+Fila : 88: El id de formato debe ser numérico. 
+Fila : 89: El id de formato debe ser numérico. 
+Fila : 90: El id de formato debe ser numérico. 
+Fila : 91: El id de formato debe ser numérico. 
+Fila : 92: El id de formato debe ser numérico. 
+Fila : 93: El id de formato debe ser numérico. 
+Fila : 94: El id de formato debe ser numérico. 
+Fila : 95: El id de formato debe ser numérico. 
+Fila : 96: El id de formato debe ser numérico. 
+Fila : 97: El id de formato debe ser numérico. 
+Fila : 98: El id de formato debe ser numérico. 
+Fila : 99: El id de formato debe ser numérico. 
+Fila : 100: El id de formato debe ser numérico. 
+Fila : 101: El id de formato debe ser numérico. 
+Fila : 102: El id de formato debe ser numérico. 

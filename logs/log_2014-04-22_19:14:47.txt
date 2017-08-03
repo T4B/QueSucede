@@ -1,0 +1,30 @@
+Lineas correctas -> 27
+Total errores -> 27
+
+Fila : 2: El estado debe estar en el rango de 1 a 32. 
+Fila : 3: El estado debe estar en el rango de 1 a 32. 
+Fila : 4: El estado debe estar en el rango de 1 a 32. 
+Fila : 5: El estado debe estar en el rango de 1 a 32. 
+Fila : 6: El estado debe estar en el rango de 1 a 32. 
+Fila : 7: El estado debe estar en el rango de 1 a 32. 
+Fila : 8: El estado debe estar en el rango de 1 a 32. 
+Fila : 9: El estado debe estar en el rango de 1 a 32. 
+Fila : 10: El estado debe estar en el rango de 1 a 32. 
+Fila : 11: El estado debe estar en el rango de 1 a 32. 
+Fila : 12: El estado debe estar en el rango de 1 a 32. 
+Fila : 13: El estado debe estar en el rango de 1 a 32. 
+Fila : 14: El estado debe estar en el rango de 1 a 32. 
+Fila : 15: El estado debe estar en el rango de 1 a 32. 
+Fila : 16: El estado debe estar en el rango de 1 a 32. 
+Fila : 17: El estado debe estar en el rango de 1 a 32. 
+Fila : 18: El estado debe estar en el rango de 1 a 32. 
+Fila : 19: El estado debe estar en el rango de 1 a 32. 
+Fila : 20: El estado debe estar en el rango de 1 a 32. 
+Fila : 21: El estado debe estar en el rango de 1 a 32. 
+Fila : 22: El estado debe estar en el rango de 1 a 32. 
+Fila : 23: El estado debe estar en el rango de 1 a 32. 
+Fila : 24: El estado debe estar en el rango de 1 a 32. 
+Fila : 25: El estado debe estar en el rango de 1 a 32. 
+Fila : 26: El estado debe estar en el rango de 1 a 32. 
+Fila : 27: El estado debe estar en el rango de 1 a 32. 
+Fila : 28: El estado debe estar en el rango de 1 a 32. 

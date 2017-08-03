@@ -1,0 +1,366 @@
+Lineas correctas -> 307
+Total errores -> 363
+
+Fila : 2: El estado debe estar en el rango de 1 a 32. 
+Fila : 3:  Error al subir foto, Archivo: 0 
+Fila : 4:  Error al subir foto, Archivo: 0 
+Fila : 5: El estado debe estar en el rango de 1 a 32. 
+Fila : 6:  Error al subir foto, Archivo: 0 
+Fila : 7: El estado debe estar en el rango de 1 a 32. 
+Fila : 8: El estado debe estar en el rango de 1 a 32. 
+Fila : 9:  Error al subir foto, Archivo: 0 
+Fila : 10:  Error al subir foto, Archivo: 0 
+Fila : 11:  Error al subir foto, Archivo: 0 
+Fila : 12:  Error al subir foto, Archivo: 0 
+Fila : 13: El estado debe estar en el rango de 1 a 32. 
+Fila : 14: El estado debe estar en el rango de 1 a 32. 
+Fila : 15: El estado debe estar en el rango de 1 a 32. 
+Fila : 16: El estado debe estar en el rango de 1 a 32. 
+Fila : 17: El estado debe estar en el rango de 1 a 32. 
+Fila : 18: El estado debe estar en el rango de 1 a 32. 
+Fila : 19: El estado debe estar en el rango de 1 a 32. 
+Fila : 20: El estado debe estar en el rango de 1 a 32. 
+Fila : 21: El estado debe estar en el rango de 1 a 32. 
+Fila : 22: El estado debe estar en el rango de 1 a 32. 
+Fila : 23: El estado debe estar en el rango de 1 a 32. 
+Fila : 24: El estado debe estar en el rango de 1 a 32. 
+Fila : 25: El estado debe estar en el rango de 1 a 32. 
+Fila : 26: El estado debe estar en el rango de 1 a 32. 
+Fila : 27: El estado debe estar en el rango de 1 a 32. 
+Fila : 28: El estado debe estar en el rango de 1 a 32. 
+Fila : 29: El estado debe estar en el rango de 1 a 32. 
+Fila : 30: El estado debe estar en el rango de 1 a 32. 
+Fila : 31: El estado debe estar en el rango de 1 a 32. 
+Fila : 32: El estado debe estar en el rango de 1 a 32. 
+Fila : 33: El estado debe estar en el rango de 1 a 32. 
+Fila : 34: El estado debe estar en el rango de 1 a 32. 
+Fila : 35: El estado debe estar en el rango de 1 a 32. 
+Fila : 36: El estado debe estar en el rango de 1 a 32. 
+Fila : 37: El estado debe estar en el rango de 1 a 32. 
+Fila : 38: El estado debe estar en el rango de 1 a 32. 
+Fila : 39: El estado debe estar en el rango de 1 a 32. 
+Fila : 40: El estado debe estar en el rango de 1 a 32. 
+Fila : 41: El estado debe estar en el rango de 1 a 32. 
+Fila : 42: El estado debe estar en el rango de 1 a 32. 
+Fila : 43:  Error al subir foto, Archivo: 0 
+Fila : 44:  Error al subir foto, Archivo: 0 
+Fila : 45: El estado debe estar en el rango de 1 a 32. 
+Fila : 46: El estado debe estar en el rango de 1 a 32. 
+Fila : 47: El estado debe estar en el rango de 1 a 32. 
+Fila : 48: El estado debe estar en el rango de 1 a 32. 
+Fila : 49:  Error al subir foto, Archivo: 0 
+Fila : 50:  Error al subir foto, Archivo: 0 
+Fila : 51:  Error al subir foto, Archivo: 0 
+Fila : 52: El estado debe estar en el rango de 1 a 32. 
+Fila : 53: El estado debe estar en el rango de 1 a 32. 
+Fila : 54:  Error al subir foto, Archivo: 0 
+Fila : 55:  Error al subir foto, Archivo: 0 
+Fila : 56:  Error al subir foto, Archivo: 0 
+Fila : 57:  Error al subir foto, Archivo: 0 
+Fila : 58:  Error al subir foto, Archivo: 0 
+Fila : 59:  Error al subir foto, Archivo: 0 
+Fila : 60: El estado debe estar en el rango de 1 a 32. 
+Fila : 61:  Error al subir foto, Archivo: 0 
+Fila : 62: El estado debe estar en el rango de 1 a 32. 
+Fila : 63: El estado debe estar en el rango de 1 a 32. 
+Fila : 64:  Error al subir foto, Archivo: 0 
+Fila : 65: El estado debe estar en el rango de 1 a 32. 
+Fila : 66: El estado debe estar en el rango de 1 a 32. 
+Fila : 67:  Error al subir foto, Archivo: 0 
+Fila : 68:  Error al subir foto, Archivo: 0 
+Fila : 69:  Error al subir foto, Archivo: 0 
+Fila : 70: El estado debe estar en el rango de 1 a 32. 
+Fila : 71: El estado debe estar en el rango de 1 a 32. 
+Fila : 72:  Error al subir foto, Archivo: 0 
+Fila : 73: El estado debe estar en el rango de 1 a 32. 
+Fila : 74: El estado debe estar en el rango de 1 a 32. 
+Fila : 75: El estado debe estar en el rango de 1 a 32. 
+Fila : 76: El estado debe estar en el rango de 1 a 32. 
+Fila : 77:  Error al subir foto, Archivo: 0 
+Fila : 78:  Error al subir foto, Archivo: 0 
+Fila : 79:  Error al subir foto, Archivo: 0 
+Fila : 80:  Error al subir foto, Archivo: 0 
+Fila : 81:  Error al subir foto, Archivo: 0 
+Fila : 82: El estado debe estar en el rango de 1 a 32. 
+Fila : 83: El estado debe estar en el rango de 1 a 32. 
+Fila : 84: El estado debe estar en el rango de 1 a 32. 
+Fila : 85: El estado debe estar en el rango de 1 a 32. 
+Fila : 86: El estado debe estar en el rango de 1 a 32. 
+Fila : 87:  Error al subir foto, Archivo: 0 
+Fila : 88:  Error al subir foto, Archivo: 0 
+Fila : 89:  Error al subir foto, Archivo: 0 
+Fila : 90: El estado debe estar en el rango de 1 a 32. 
+Fila : 91:  Error al subir foto, Archivo: 0 
+Fila : 92:  Error al subir foto, Archivo: 0 
+Fila : 93:  Error al subir foto, Archivo: 0 
+Fila : 94:  Error al subir foto, Archivo: 0 
+Fila : 95:  Error al subir foto, Archivo: 0 
+Fila : 96:  Error al subir foto, Archivo: 0 
+Fila : 97:  Error al subir foto, Archivo: 0 
+Fila : 98: El estado debe estar en el rango de 1 a 32. 
+Fila : 99: El estado debe estar en el rango de 1 a 32. 
+Fila : 100:  Error al subir foto, Archivo: 0 
+Fila : 101: El estado debe estar en el rango de 1 a 32. 
+Fila : 102:  Error al subir foto, Archivo: 0 
+Fila : 103:  Error al subir foto, Archivo: 0 
+Fila : 104: El estado debe estar en el rango de 1 a 32. 
+Fila : 105: El estado debe estar en el rango de 1 a 32. 
+Fila : 106: El estado debe estar en el rango de 1 a 32. 
+Fila : 107: El estado debe estar en el rango de 1 a 32. 
+Fila : 108: El estado debe estar en el rango de 1 a 32. 
+Fila : 109: El estado debe estar en el rango de 1 a 32. 
+Fila : 110: El estado debe estar en el rango de 1 a 32. 
+Fila : 111: El estado debe estar en el rango de 1 a 32. 
+Fila : 112: El estado debe estar en el rango de 1 a 32. 
+Fila : 113: El estado debe estar en el rango de 1 a 32. 
+Fila : 114: El estado debe estar en el rango de 1 a 32. 
+Fila : 115: El estado debe estar en el rango de 1 a 32. 
+Fila : 116: El estado debe estar en el rango de 1 a 32. 
+Fila : 117:  Error al subir foto, Archivo: 0 
+Fila : 118: El estado debe estar en el rango de 1 a 32. 
+Fila : 119: El estado debe estar en el rango de 1 a 32. 
+Fila : 120: El estado debe estar en el rango de 1 a 32. 
+Fila : 121: El estado debe estar en el rango de 1 a 32. 
+Fila : 122: El estado debe estar en el rango de 1 a 32. 
+Fila : 123: El estado debe estar en el rango de 1 a 32. 
+Fila : 124: El estado debe estar en el rango de 1 a 32. 
+Fila : 125: El estado debe estar en el rango de 1 a 32. 
+Fila : 126: El estado debe estar en el rango de 1 a 32. 
+Fila : 127: El estado debe estar en el rango de 1 a 32. 
+Fila : 128: El estado debe estar en el rango de 1 a 32. 
+Fila : 129: El estado debe estar en el rango de 1 a 32. 
+Fila : 130: El estado debe estar en el rango de 1 a 32. 
+Fila : 131: El estado debe estar en el rango de 1 a 32. 
+Fila : 132: El estado debe estar en el rango de 1 a 32. 
+Fila : 133: El estado debe estar en el rango de 1 a 32. 
+Fila : 134: El estado debe estar en el rango de 1 a 32. 
+Fila : 135:  Error al subir foto, Archivo: 0 
+Fila : 136:  Error al subir foto, Archivo: 0 
+Fila : 137:  Error al subir foto, Archivo: 0 
+Fila : 138:  Error al subir foto, Archivo: 0 
+Fila : 139:  Error al subir foto, Archivo: 0 
+Fila : 140:  Error al subir foto, Archivo: 0 
+Fila : 141:  Error al subir foto, Archivo: 0 
+Fila : 142: El estado debe estar en el rango de 1 a 32. 
+Fila : 143: El estado debe estar en el rango de 1 a 32. 
+Fila : 144: El estado debe estar en el rango de 1 a 32. 
+Fila : 145: El estado debe estar en el rango de 1 a 32. 
+Fila : 146: El estado debe estar en el rango de 1 a 32. 
+Fila : 147: El estado debe estar en el rango de 1 a 32. 
+Fila : 148: El estado debe estar en el rango de 1 a 32. 
+Fila : 149: El estado debe estar en el rango de 1 a 32. 
+Fila : 150: El estado debe estar en el rango de 1 a 32. 
+Fila : 151: El estado debe estar en el rango de 1 a 32. 
+Fila : 152: El estado debe estar en el rango de 1 a 32. 
+Fila : 153: El estado debe estar en el rango de 1 a 32. 
+Fila : 154: El estado debe estar en el rango de 1 a 32. 
+Fila : 155: El estado debe estar en el rango de 1 a 32. 
+Fila : 156: El estado debe estar en el rango de 1 a 32. 
+Fila : 157: El estado debe estar en el rango de 1 a 32. 
+Fila : 158: El estado debe estar en el rango de 1 a 32. 
+Fila : 159: El estado debe estar en el rango de 1 a 32. 
+Fila : 160: El estado debe estar en el rango de 1 a 32. 
+Fila : 161: El estado debe estar en el rango de 1 a 32. 
+Fila : 162: El estado debe estar en el rango de 1 a 32. 
+Fila : 163:  Error al subir foto, Archivo: 0 
+Fila : 164: El estado debe estar en el rango de 1 a 32. 
+Fila : 165: El estado debe estar en el rango de 1 a 32. 
+Fila : 166: El estado debe estar en el rango de 1 a 32. 
+Fila : 167: El estado debe estar en el rango de 1 a 32. 
+Fila : 168: El estado debe estar en el rango de 1 a 32. 
+Fila : 169: El estado debe estar en el rango de 1 a 32. 
+Fila : 170: El estado debe estar en el rango de 1 a 32. 
+Fila : 171: El estado debe estar en el rango de 1 a 32. 
+Fila : 172: El estado debe estar en el rango de 1 a 32. 
+Fila : 173: El estado debe estar en el rango de 1 a 32. 
+Fila : 174: El estado debe estar en el rango de 1 a 32. 
+Fila : 175: El estado debe estar en el rango de 1 a 32. 
+Fila : 176: El estado debe estar en el rango de 1 a 32. 
+Fila : 177: El estado debe estar en el rango de 1 a 32. 
+Fila : 178: El estado debe estar en el rango de 1 a 32. 
+Fila : 179: El estado debe estar en el rango de 1 a 32. 
+Fila : 180: El estado debe estar en el rango de 1 a 32. 
+Fila : 181: El estado debe estar en el rango de 1 a 32. 
+Fila : 182: El estado debe estar en el rango de 1 a 32. 
+Fila : 183: El estado debe estar en el rango de 1 a 32. 
+Fila : 184: El estado debe estar en el rango de 1 a 32. 
+Fila : 185: El estado debe estar en el rango de 1 a 32. 
+Fila : 186: El estado debe estar en el rango de 1 a 32. 
+Fila : 187: El estado debe estar en el rango de 1 a 32. 
+Fila : 188: El estado debe estar en el rango de 1 a 32. 
+Fila : 189: El estado debe estar en el rango de 1 a 32. 
+Fila : 190: El estado debe estar en el rango de 1 a 32. 
+Fila : 191: El estado debe estar en el rango de 1 a 32. 
+Fila : 192: El estado debe estar en el rango de 1 a 32. 
+Fila : 193: El estado debe estar en el rango de 1 a 32. 
+Fila : 194: El estado debe estar en el rango de 1 a 32. 
+Fila : 195: El estado debe estar en el rango de 1 a 32. 
+Fila : 196: El estado debe estar en el rango de 1 a 32. 
+Fila : 197: El estado debe estar en el rango de 1 a 32. 
+Fila : 198: El estado debe estar en el rango de 1 a 32. 
+Fila : 199: El estado debe estar en el rango de 1 a 32. 
+Fila : 200: El estado debe estar en el rango de 1 a 32. 
+Fila : 201: El estado debe estar en el rango de 1 a 32. 
+Fila : 202: El estado debe estar en el rango de 1 a 32. 
+Fila : 203: El estado debe estar en el rango de 1 a 32. 
+Fila : 204: El estado debe estar en el rango de 1 a 32. 
+Fila : 205: El estado debe estar en el rango de 1 a 32. 
+Fila : 206: El estado debe estar en el rango de 1 a 32. 
+Fila : 207: El estado debe estar en el rango de 1 a 32. 
+Fila : 208: El estado debe estar en el rango de 1 a 32. 
+Fila : 209: El estado debe estar en el rango de 1 a 32. 
+Fila : 210: El estado debe estar en el rango de 1 a 32. 
+Fila : 211: El estado debe estar en el rango de 1 a 32. 
+Fila : 212: El estado debe estar en el rango de 1 a 32. 
+Fila : 213: El estado debe estar en el rango de 1 a 32. 
+Fila : 214: El estado debe estar en el rango de 1 a 32. 
+Fila : 215: El estado debe estar en el rango de 1 a 32. 
+Fila : 216: El estado debe estar en el rango de 1 a 32. 
+Fila : 217: El estado debe estar en el rango de 1 a 32. 
+Fila : 218: El estado debe estar en el rango de 1 a 32. 
+Fila : 219: El estado debe estar en el rango de 1 a 32. 
+Fila : 220: El estado debe estar en el rango de 1 a 32. 
+Fila : 221: El estado debe estar en el rango de 1 a 32. 
+Fila : 222: El estado debe estar en el rango de 1 a 32. 
+Fila : 223: El estado debe estar en el rango de 1 a 32. 
+Fila : 224: El estado debe estar en el rango de 1 a 32. 
+Fila : 225: El estado debe estar en el rango de 1 a 32. 
+Fila : 226:  Error al subir foto, Archivo: 0 
+Fila : 227: El estado debe estar en el rango de 1 a 32. 
+Fila : 228: El estado debe estar en el rango de 1 a 32. 
+Fila : 229: El estado debe estar en el rango de 1 a 32. 
+Fila : 230: El estado debe estar en el rango de 1 a 32. 
+Fila : 231: El estado debe estar en el rango de 1 a 32. 
+Fila : 232: El estado debe estar en el rango de 1 a 32. 
+Fila : 233: El estado debe estar en el rango de 1 a 32. 
+Fila : 234: El estado debe estar en el rango de 1 a 32. 
+Fila : 235: El estado debe estar en el rango de 1 a 32. 
+Fila : 236: El estado debe estar en el rango de 1 a 32. 
+Fila : 237: El estado debe estar en el rango de 1 a 32. 
+Fila : 238: El estado debe estar en el rango de 1 a 32. 
+Fila : 239: El estado debe estar en el rango de 1 a 32. 
+Fila : 240: El estado debe estar en el rango de 1 a 32. 
+Fila : 241: El estado debe estar en el rango de 1 a 32. 
+Fila : 242: El estado debe estar en el rango de 1 a 32. 
+Fila : 243: El estado debe estar en el rango de 1 a 32. 
+Fila : 244: El estado debe estar en el rango de 1 a 32. 
+Fila : 245: El estado debe estar en el rango de 1 a 32. 
+Fila : 246: El estado debe estar en el rango de 1 a 32. 
+Fila : 247: El estado debe estar en el rango de 1 a 32. 
+Fila : 248: El estado debe estar en el rango de 1 a 32. 
+Fila : 249: El estado debe estar en el rango de 1 a 32. 
+Fila : 250: El estado debe estar en el rango de 1 a 32. 
+Fila : 251: El estado debe estar en el rango de 1 a 32. 
+Fila : 252: El estado debe estar en el rango de 1 a 32. 
+Fila : 253: El estado debe estar en el rango de 1 a 32. 
+Fila : 254: El estado debe estar en el rango de 1 a 32. 
+Fila : 255: El estado debe estar en el rango de 1 a 32. 
+Fila : 256: El estado debe estar en el rango de 1 a 32. 
+Fila : 257: El estado debe estar en el rango de 1 a 32. 
+Fila : 258: El estado debe estar en el rango de 1 a 32. 
+Fila : 259: El estado debe estar en el rango de 1 a 32. 
+Fila : 260: El estado debe estar en el rango de 1 a 32. 
+Fila : 261: El estado debe estar en el rango de 1 a 32. 
+Fila : 262: El estado debe estar en el rango de 1 a 32. 
+Fila : 263: El estado debe estar en el rango de 1 a 32. 
+Fila : 264: El estado debe estar en el rango de 1 a 32. 
+Fila : 265: El estado debe estar en el rango de 1 a 32. 
+Fila : 266: El estado debe estar en el rango de 1 a 32. 
+Fila : 267: El estado debe estar en el rango de 1 a 32. 
+Fila : 268: El estado debe estar en el rango de 1 a 32. 
+Fila : 269: El estado debe estar en el rango de 1 a 32. 
+Fila : 270: El estado debe estar en el rango de 1 a 32. 
+Fila : 271: El estado debe estar en el rango de 1 a 32. 
+Fila : 272: El estado debe estar en el rango de 1 a 32. 
+Fila : 273: El estado debe estar en el rango de 1 a 32. 
+Fila : 274: El estado debe estar en el rango de 1 a 32. 
+Fila : 275: El estado debe estar en el rango de 1 a 32. 
+Fila : 276: El estado debe estar en el rango de 1 a 32. 
+Fila : 277: El estado debe estar en el rango de 1 a 32. 
+Fila : 278: El estado debe estar en el rango de 1 a 32. 
+Fila : 279: El estado debe estar en el rango de 1 a 32. 
+Fila : 280: El estado debe estar en el rango de 1 a 32. 
+Fila : 281:  Error al subir foto, Archivo: 0 
+Fila : 282: El estado debe estar en el rango de 1 a 32. 
+Fila : 283: El estado debe estar en el rango de 1 a 32. 
+Fila : 284: El estado debe estar en el rango de 1 a 32. 
+Fila : 285: El estado debe estar en el rango de 1 a 32. 
+Fila : 286: El estado debe estar en el rango de 1 a 32. 
+Fila : 287: El estado debe estar en el rango de 1 a 32. 
+Fila : 288: El estado debe estar en el rango de 1 a 32. 
+Fila : 289: El estado debe estar en el rango de 1 a 32. 
+Fila : 290: El estado debe estar en el rango de 1 a 32. 
+Fila : 291: El estado debe estar en el rango de 1 a 32. 
+Fila : 292: El estado debe estar en el rango de 1 a 32. 
+Fila : 293: El estado debe estar en el rango de 1 a 32. 
+Fila : 294: El estado debe estar en el rango de 1 a 32. 
+Fila : 295: El estado debe estar en el rango de 1 a 32. 
+Fila : 296: El estado debe estar en el rango de 1 a 32. 
+Fila : 297: El estado debe estar en el rango de 1 a 32. 
+Fila : 298: El estado debe estar en el rango de 1 a 32. 
+Fila : 299: El estado debe estar en el rango de 1 a 32. 
+Fila : 300: El estado debe estar en el rango de 1 a 32. 
+Fila : 301: El estado debe estar en el rango de 1 a 32. 
+Fila : 302: El estado debe estar en el rango de 1 a 32. 
+Fila : 303: El estado debe estar en el rango de 1 a 32. 
+Fila : 304: El estado debe estar en el rango de 1 a 32. 
+Fila : 305: El estado debe estar en el rango de 1 a 32. 
+Fila : 306: El estado debe estar en el rango de 1 a 32. 
+Fila : 307: El estado debe estar en el rango de 1 a 32. 
+Fila : 308: El estado debe estar en el rango de 1 a 32. 
+Fila : 309: El estado debe estar en el rango de 1 a 32. 
+Fila : 310: El estado debe estar en el rango de 1 a 32. 
+Fila : 311: El estado debe estar en el rango de 1 a 32. 
+Fila : 312:  Error al subir foto, Archivo: 0 
+Fila : 313:  Error al subir foto, Archivo: 0 
+Fila : 314: El estado debe estar en el rango de 1 a 32. 
+Fila : 315: El estado debe estar en el rango de 1 a 32. 
+Fila : 316: El estado debe estar en el rango de 1 a 32. 
+Fila : 317: El estado debe estar en el rango de 1 a 32. 
+Fila : 318: El estado debe estar en el rango de 1 a 32. 
+Fila : 319: El estado debe estar en el rango de 1 a 32. 
+Fila : 320: El estado debe estar en el rango de 1 a 32. 
+Fila : 321: El estado debe estar en el rango de 1 a 32. 
+Fila : 322: El estado debe estar en el rango de 1 a 32. 
+Fila : 323: El estado debe estar en el rango de 1 a 32. 
+Fila : 324: El estado debe estar en el rango de 1 a 32. 
+Fila : 325: El estado debe estar en el rango de 1 a 32. 
+Fila : 326: El estado debe estar en el rango de 1 a 32. 
+Fila : 327: El estado debe estar en el rango de 1 a 32. 
+Fila : 328: El estado debe estar en el rango de 1 a 32. 
+Fila : 329: El estado debe estar en el rango de 1 a 32. 
+Fila : 330: El estado debe estar en el rango de 1 a 32. 
+Fila : 331: El estado debe estar en el rango de 1 a 32. 
+Fila : 332: El estado debe estar en el rango de 1 a 32. 
+Fila : 333: El estado debe estar en el rango de 1 a 32. 
+Fila : 334: El estado debe estar en el rango de 1 a 32. 
+Fila : 335: El estado debe estar en el rango de 1 a 32. 
+Fila : 336: El estado debe estar en el rango de 1 a 32. 
+Fila : 337: El estado debe estar en el rango de 1 a 32. 
+Fila : 338: El estado debe estar en el rango de 1 a 32. 
+Fila : 339: El estado debe estar en el rango de 1 a 32. 
+Fila : 340: El estado debe estar en el rango de 1 a 32. 
+Fila : 341: El estado debe estar en el rango de 1 a 32. 
+Fila : 342: El estado debe estar en el rango de 1 a 32. 
+Fila : 343: El estado debe estar en el rango de 1 a 32. 
+Fila : 344: El estado debe estar en el rango de 1 a 32. 
+Fila : 345: El estado debe estar en el rango de 1 a 32. 
+Fila : 346: El estado debe estar en el rango de 1 a 32. 
+Fila : 347: El estado debe estar en el rango de 1 a 32. 
+Fila : 348: El estado debe estar en el rango de 1 a 32. 
+Fila : 349: El estado debe estar en el rango de 1 a 32. 
+Fila : 350: El estado debe estar en el rango de 1 a 32. 
+Fila : 351: El estado debe estar en el rango de 1 a 32. 
+Fila : 352: El estado debe estar en el rango de 1 a 32. 
+Fila : 353: El estado debe estar en el rango de 1 a 32. 
+Fila : 354: El estado debe estar en el rango de 1 a 32. 
+Fila : 355: El estado debe estar en el rango de 1 a 32. 
+Fila : 356: El estado debe estar en el rango de 1 a 32. 
+Fila : 357: El estado debe estar en el rango de 1 a 32. 
+Fila : 358: El estado debe estar en el rango de 1 a 32. 
+Fila : 359: El estado debe estar en el rango de 1 a 32. 
+Fila : 360: El estado debe estar en el rango de 1 a 32. 
+Fila : 361: El estado debe estar en el rango de 1 a 32. 
+Fila : 362:  Error al subir foto, Archivo: 0 
+Fila : 363: El estado debe estar en el rango de 1 a 32. 
+Fila : 364: El estado debe estar en el rango de 1 a 32. 

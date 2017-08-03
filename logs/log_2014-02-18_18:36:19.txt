@@ -1,0 +1,15 @@
+Lineas correctas -> 0
+Total errores -> 12
+
+Fila : 2:  Error al subir foto, Archivo: 2014020715229100219239184722.jpg 
+Fila : 3:  Error al subir foto, Archivo: 2014020715229100219339414722.jpg 
+Fila : 4:  Error al subir foto, Archivo: 2014020715229100219439644719.jpg 
+Fila : 5:  Error al subir foto, Archivo: 2014020715229100219539874721.jpg 
+Fila : 6:  Error al subir foto, Archivo: 2014020715229100219640104725.jpg 
+Fila : 7:  Error al subir foto, Archivo: 2014020715229100219740334721.jpg 
+Fila : 8:  Error al subir foto, Archivo: 2014020715229100219840564721.jpg 
+Fila : 9:  Error al subir foto, Archivo: 2014020715229100219940794721.jpg 
+Fila : 10:  Error al subir foto, Archivo: 2014020715229100220041024721.jpg 
+Fila : 11:  Error al subir foto, Archivo: 201402071522910131124722.jpg 
+Fila : 12:  Error al subir foto, Archivo: 2014020715229101319239184724.jpg 
+Fila : 13:  Error al subir foto, Archivo: 2014020715229101319339414724.jpg 

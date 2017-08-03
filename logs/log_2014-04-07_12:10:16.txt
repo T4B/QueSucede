@@ -1,0 +1,15 @@
+Lineas correctas -> 12
+Total errores -> 0
+
+Id insertado de promoción nueva-> 1185 
+Id insertado de promoción nueva-> 1186 
+Id insertado de promoción nueva-> 1187 
+Id insertado de promoción nueva-> 1188 
+Id insertado de promoción nueva-> 1189 
+Id insertado de promoción nueva-> 1190 
+Id insertado de promoción nueva-> 1191 
+Id insertado de promoción nueva-> 1192 
+Id insertado de promoción nueva-> 1193 
+Id insertado de promoción nueva-> 1194 
+Id insertado de promoción nueva-> 1195 
+Id insertado de promoción nueva-> 1196 

@@ -1,0 +1,5 @@
+Lineas correctas -> 0
+Total errores -> 2
+
+Fila : 2: El id de categoría debe ser numérico. 
+Fila : 3: El id de categoría debe ser numérico. 

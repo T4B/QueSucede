@@ -1,0 +1,302 @@
+Lineas correctas -> 203
+Total errores -> 96
+
+Id insertado -> 1013 
+Id insertado -> 1014 
+Id insertado -> 1015 
+Id insertado -> 1016 
+Id insertado -> 1017 
+Id insertado -> 1018 
+Id insertado -> 1019 
+Id insertado -> 1020 
+Id insertado -> 1021 
+Fila : 11: El id de marca debe ser numérico. 
+Id insertado -> 1022 
+Id insertado -> 1023 
+Id insertado -> 1024 
+Id insertado -> 1025 
+Id insertado -> 1026 
+Id insertado -> 1027 
+Fila : 18: El id de categoría debe ser numérico. 
+Id insertado -> 1028 
+Id insertado -> 1029 
+Id insertado -> 1030 
+Fila : 22: El id de categoría debe ser numérico. 
+Id insertado -> 1031 
+Id insertado -> 1032 
+Id insertado -> 1033 
+Id insertado -> 1034 
+Id insertado -> 1035 
+Id insertado -> 1036 
+Fila : 29: El id de marca debe ser numérico. 
+Id insertado -> 1037 
+Id insertado -> 1038 
+Id insertado -> 1039 
+Fila : 33: El id de categoría debe ser numérico. 
+Fila : 34: El id de categoría debe ser numérico. 
+Id insertado -> 1040 
+Id insertado -> 1041 
+Id insertado -> 1042 
+Id insertado -> 1043 
+Id insertado -> 1044 
+Id insertado -> 1045 
+Id insertado -> 1046 
+Id insertado -> 1047 
+Id insertado -> 1048 
+Id insertado -> 1049 
+Id insertado -> 1050 
+Id insertado -> 1051 
+Id insertado -> 1052 
+Id insertado -> 1053 
+Id insertado -> 1054 
+Id insertado -> 1055 
+Id insertado -> 1056 
+Id insertado -> 1057 
+Fila : 53:  Error al subir foto, Archivo: 2013071172093415711035.jpg 
+Id insertado -> 1058 
+Id insertado -> 1059 
+Id insertado -> 1060 
+Id insertado -> 1061 
+Id insertado -> 1062 
+Fila : 59: El id de marca debe ser numérico. 
+Fila : 60: El id de marca debe ser numérico. 
+Id insertado -> 1063 
+Id insertado -> 1064 
+Id insertado -> 1065 
+Id insertado -> 1066 
+Id insertado -> 1067 
+Id insertado -> 1068 
+Id insertado -> 1069 
+Id insertado -> 1070 
+Id insertado -> 1071 
+Fila : 70: El id de categoría debe ser numérico. 
+Fila : 71: El id de marca debe ser numérico. 
+Fila : 72: El id de marca debe ser numérico. 
+Id insertado -> 1072 
+Id insertado -> 1073 
+Id insertado -> 1074 
+Fila : 76: El id de marca debe ser numérico. 
+Id insertado -> 1075 
+Id insertado -> 1076 
+Id insertado -> 1077 
+Fila : 80: El id de categoría debe ser numérico. 
+Id insertado -> 1078 
+Id insertado -> 1079 
+Fila : 83: El id de marca debe ser numérico. 
+Id insertado -> 1080 
+Id insertado -> 1081 
+Fila : 86: El id de marca debe ser numérico. 
+Id insertado -> 1082 
+Fila : 88: El id de marca debe ser numérico. 
+Fila : 89: El id de marca debe ser numérico. 
+Fila : 90: El id de marca debe ser numérico. 
+Fila : 91: El id de marca debe ser numérico. 
+Fila : 92: El id de marca debe ser numérico. 
+Fila : 93: El id de marca debe ser numérico. 
+Fila : 94: El id de categoría debe ser numérico. 
+Fila : 95: El id de marca debe ser numérico. 
+Fila : 96: El id de marca debe ser numérico. 
+Id insertado -> 1083 
+Fila : 98: El id de marca debe ser numérico. 
+Id insertado -> 1084 
+Id insertado -> 1085 
+Fila : 101: El id de marca debe ser numérico. 
+Fila : 102: El id de marca debe ser numérico. 
+Id insertado -> 1086 
+Fila : 104: El id de categoría debe ser numérico. 
+Id insertado -> 1087 
+Id insertado -> 1088 
+Fila : 107: El id de categoría debe ser numérico. 
+Fila : 108: El id de marca debe ser numérico. 
+Fila : 109: El id de marca debe ser numérico. 
+Id insertado -> 1089 
+Fila : 111: El id de marca debe ser numérico. 
+Fila : 112: El id de marca debe ser numérico. 
+Id insertado -> 1090 
+Id insertado -> 1091 
+Fila : 115: El id de marca debe ser numérico. 
+Id insertado -> 1092 
+Id insertado -> 1093 
+Id insertado -> 1094 
+Id insertado -> 1095 
+Id insertado -> 1096 
+Fila : 121: El id de marca debe ser numérico. 
+Id insertado -> 1097 
+Id insertado -> 1098 
+Id insertado -> 1099 
+Id insertado -> 1100 
+Id insertado -> 1101 
+Fila : 127: El id de marca debe ser numérico. 
+Id insertado -> 1102 
+Id insertado -> 1103 
+Id insertado -> 1104 
+Fila : 131: El id de marca debe ser numérico. 
+Id insertado -> 1105 
+Fila : 133: El id de marca debe ser numérico. 
+Id insertado -> 1106 
+Id insertado -> 1107 
+Id insertado -> 1108 
+Id insertado -> 1109 
+Id insertado -> 1110 
+Id insertado -> 1111 
+Id insertado -> 1112 
+Fila : 141: El id de marca debe ser numérico. 
+Id insertado -> 1113 
+Fila : 143: El id de categoría debe ser numérico. 
+Fila : 144: El id de categoría debe ser numérico. 
+Fila : 145: El id de marca debe ser numérico. 
+Fila : 146: El id de marca debe ser numérico. 
+Fila : 147: El id de marca debe ser numérico. 
+Fila : 148: El id de marca debe ser numérico. 
+Fila : 149: El id de marca debe ser numérico. 
+Fila : 150: El id de marca debe ser numérico. 
+Id insertado -> 1114 
+Id insertado -> 1115 
+Id insertado -> 1116 
+Fila : 154: El id de marca debe ser numérico. 
+Fila : 155: El id de marca debe ser numérico. 
+Id insertado -> 1117 
+Id insertado -> 1118 
+Id insertado -> 1119 
+Id insertado -> 1120 
+Id insertado -> 1121 
+Fila : 161: El id de marca debe ser numérico. 
+Id insertado -> 1122 
+Fila : 163: El id de marca debe ser numérico. 
+Fila : 164: El id de marca debe ser numérico. 
+Id insertado -> 1123 
+Id insertado -> 1124 
+Fila : 167: El id de marca debe ser numérico. 
+Id insertado -> 1125 
+Id insertado -> 1126 
+Id insertado -> 1127 
+Fila : 171: El id de marca debe ser numérico. 
+Fila : 172: El id de marca debe ser numérico. 
+Fila : 173: El id de marca debe ser numérico. 
+Id insertado -> 1128 
+Id insertado -> 1129 
+Id insertado -> 1130 
+Id insertado -> 1131 
+Fila : 178: El id de marca debe ser numérico. 
+Fila : 179: El id de marca debe ser numérico. 
+Id insertado -> 1132 
+Id insertado -> 1133 
+Id insertado -> 1134 
+Id insertado -> 1135 
+Id insertado -> 1136 
+Id insertado -> 1137 
+Id insertado -> 1138 
+Id insertado -> 1139 
+Id insertado -> 1140 
+Id insertado -> 1141 
+Id insertado -> 1142 
+Fila : 191: El id de marca debe ser numérico. 
+Fila : 192: El id de marca debe ser numérico. 
+Id insertado -> 1143 
+Fila : 194: El id de marca debe ser numérico. 
+Id insertado -> 1144 
+Id insertado -> 1145 
+Id insertado -> 1146 
+Id insertado -> 1147 
+Id insertado -> 1148 
+Fila : 200: El id de marca debe ser numérico. 
+Id insertado -> 1149 
+Id insertado -> 1150 
+Id insertado -> 1151 
+Id insertado -> 1152 
+Id insertado -> 1153 
+Fila : 206: El id de marca debe ser numérico. 
+Fila : 207: El id de marca debe ser numérico. 
+Id insertado -> 1154 
+Id insertado -> 1155 
+Id insertado -> 1156 
+Fila : 211: El id de marca debe ser numérico. 
+Fila : 212: El id de marca debe ser numérico. 
+Id insertado -> 1157 
+Id insertado -> 1158 
+Id insertado -> 1159 
+Id insertado -> 1160 
+Fila : 217: El id de categoría debe ser numérico. 
+Fila : 218: El id de marca debe ser numérico. 
+Id insertado -> 1161 
+Id insertado -> 1162 
+Fila : 221: El id de marca debe ser numérico. 
+Id insertado -> 1163 
+Id insertado -> 1164 
+Id insertado -> 1165 
+Fila : 225: El id de marca debe ser numérico. 
+Fila : 226: El id de marca debe ser numérico. 
+Fila : 227: El id de marca debe ser numérico. 
+Id insertado -> 1166 
+Id insertado -> 1167 
+Fila : 230: El id de marca debe ser numérico. 
+Id insertado -> 1168 
+Fila : 232: El id de marca debe ser numérico. 
+Id insertado -> 1169 
+Id insertado -> 1170 
+Id insertado -> 1171 
+Id insertado -> 1172 
+Id insertado -> 1173 
+Id insertado -> 1174 
+Fila : 239: El id de marca debe ser numérico. 
+Id insertado -> 1175 
+Id insertado -> 1176 
+Id insertado -> 1177 
+Fila : 243: El id de marca debe ser numérico. 
+Id insertado -> 1178 
+Id insertado -> 1179 
+Fila : 246: El id de marca debe ser numérico. 
+Id insertado -> 1180 
+Id insertado -> 1181 
+Id insertado -> 1182 
+Id insertado -> 1183 
+Id insertado -> 1184 
+Fila : 252: El id de marca debe ser numérico. 
+Id insertado -> 1185 
+Fila : 254: El id de marca debe ser numérico. 
+Id insertado -> 1186 
+Id insertado -> 1187 
+Id insertado -> 1188 
+Id insertado -> 1189 
+Id insertado -> 1190 
+Id insertado -> 1191 
+Id insertado -> 1192 
+Id insertado -> 1193 
+Id insertado -> 1194 
+Fila : 264: El id de marca debe ser numérico. 
+Fila : 265: El id de marca debe ser numérico. 
+Id insertado -> 1195 
+Fila : 267: El id de marca debe ser numérico. 
+Id insertado -> 1196 
+Id insertado -> 1197 
+Id insertado -> 1198 
+Fila : 271: El id de marca debe ser numérico. 
+Fila : 272: El id de marca debe ser numérico. 
+Id insertado -> 1199 
+Id insertado -> 1200 
+Id insertado -> 1201 
+Fila : 276: El id de marca debe ser numérico. 
+Id insertado -> 1202 
+Fila : 278: El id de marca debe ser numérico. 
+Fila : 279: El id de categoría debe ser numérico. 
+Id insertado -> 1203 
+Id insertado -> 1204 
+Id insertado -> 1205 
+Fila : 283: El id de marca debe ser numérico. 
+Fila : 284: El id de marca debe ser numérico. 
+Fila : 285: El id de marca debe ser numérico. 
+Id insertado -> 1206 
+Id insertado -> 1207 
+Id insertado -> 1208 
+Id insertado -> 1209 
+Fila : 290: El id de marca debe ser numérico. 
+Id insertado -> 1210 
+Id insertado -> 1211 
+Id insertado -> 1212 
+Fila : 294: El id de marca debe ser numérico. 
+Fila : 295: El id de categoría debe ser numérico. 
+Fila : 296: El id de marca debe ser numérico. 
+Id insertado -> 1213 
+Fila : 298: El id de marca debe ser numérico. 
+Id insertado -> 1214 
+Id insertado -> 1215 

@@ -1,0 +1,44 @@
+Lineas correctas -> 109
+Total errores -> 41
+
+Fila : 2:  Error al subir foto, Archivo: 0 
+Fila : 3:  Error al subir foto, Archivo: 0 
+Fila : 5:  Error al subir foto, Archivo: 0 
+Fila : 14:  Error al subir foto, Archivo: 0 
+Fila : 18:  Error al subir foto, Archivo: 0 
+Fila : 20:  Error al subir foto, Archivo: 0 
+Fila : 48:  Error al subir foto, Archivo: 0 
+Fila : 49:  Error al subir foto, Archivo: 0 
+Fila : 50:  Error al subir foto, Archivo: 0 
+Fila : 51:  Error al subir foto, Archivo: 0 
+Fila : 57:  Error al subir foto, Archivo: 0 
+Fila : 58:  Error al subir foto, Archivo: 0 
+Fila : 62:  Error al subir foto, Archivo: 0 
+Fila : 63:  Error al subir foto, Archivo: 0 
+Fila : 71:  Error al subir foto, Archivo: 0 
+Fila : 77:  Error al subir foto, Archivo: 0 
+Fila : 80:  Error al subir foto, Archivo: 0 
+Fila : 83:  Error al subir foto, Archivo: 0 
+Fila : 84:  Error al subir foto, Archivo: 0 
+Fila : 85:  Error al subir foto, Archivo: 0 
+Fila : 87:  Error al subir foto, Archivo: 0 
+Fila : 88:  Error al subir foto, Archivo: 0 
+Fila : 90:  Error al subir foto, Archivo: 0 
+Fila : 91:  Error al subir foto, Archivo: 0 
+Fila : 92:  Error al subir foto, Archivo: 0 
+Fila : 109:  Error al subir foto, Archivo: 0 
+Fila : 110:  Error al subir foto, Archivo: 0 
+Fila : 111:  Error al subir foto, Archivo: 0 
+Fila : 112:  Error al subir foto, Archivo: 0 
+Fila : 113:  Error al subir foto, Archivo: 0 
+Fila : 122:  Error al subir foto, Archivo: 0 
+Fila : 123:  Error al subir foto, Archivo: 0 
+Fila : 125:  Error al subir foto, Archivo: 0 
+Fila : 127:  Error al subir foto, Archivo: 0 
+Fila : 128:  Error al subir foto, Archivo: 0 
+Fila : 129:  Error al subir foto, Archivo: 0 
+Fila : 133:  Error al subir foto, Archivo: 0 
+Fila : 135:  Error al subir foto, Archivo: 0 
+Fila : 136:  Error al subir foto, Archivo: 0 
+Fila : 137:  Error al subir foto, Archivo: 0 
+Fila : 145:  Error al subir foto, Archivo: 0 

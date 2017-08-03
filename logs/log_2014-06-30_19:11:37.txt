@@ -1,0 +1,21 @@
+Lineas correctas -> 16
+Total errores -> 0
+
+Id insertado de promoción nueva-> 1758 
+Id insertado de promoción nueva-> 1759 
+Id insertado de promoción nueva-> 1760 
+Fila: 5 - Error en base de datos - Cannot add or update a child row: a foreign key constraint fails (`promored_quesucede`.`promociones`, CONSTRAINT `fk_promociones_subcategorias1` FOREIGN KEY (`subcategorias_id_subcategoria`) REFERENCES `subcategorias` (`id_subcategoria`) ON DELETE NO ACTION ) 
+Id insertado de promoción nueva-> 1762 
+Fila: 7 - Error en base de datos - Cannot add or update a child row: a foreign key constraint fails (`promored_quesucede`.`promociones`, CONSTRAINT `fk_promociones_subcategorias1` FOREIGN KEY (`subcategorias_id_subcategoria`) REFERENCES `subcategorias` (`id_subcategoria`) ON DELETE NO ACTION ) 
+Id insertado de promoción nueva-> 1764 
+Id insertado de promoción nueva-> 1765 
+Id insertado de promoción nueva-> 1766 
+Id insertado de promoción nueva-> 1767 
+Id insertado de promoción nueva-> 1768 
+Id insertado de promoción nueva-> 1769 
+Id insertado de promoción nueva-> 1770 
+Id insertado de promoción nueva-> 1771 
+Id insertado de promoción nueva-> 1772 
+Id insertado de promoción nueva-> 1773 
+Id insertado de promoción nueva-> 1774 
+Id insertado de promoción nueva-> 1775 
