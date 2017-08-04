@@ -53,7 +53,7 @@ switch($host)
     case "https://quesucede.app/":
     case "http://www.quesucede.dev/":
     case "http://quesucede.dev/":
-    case "http://quesucede.t4b.mx/"
+    case "http://quesucede.t4b.mx/":
         $grupo="dev";
         break;
     case "http://www.quesucede.com.mx/":
