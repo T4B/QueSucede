@@ -124,7 +124,7 @@ if($mensaje_time):
                   <div class="carousel-inner">
                   
                     <div class="item active">
-                      <img src="<?php echo $ruta_images;?>slide/pro_img_1.jpg" alt="First slide">
+                      <img src="<?php echo $AWS_BUCKET;?>images/slide/pro_img_1.jpg" alt="First slide">
                           <div class="container">
                             <div class="carousel-caption-right">
                               <h1>NIVEA<br /> Q10 PLUS<br /> ANTIARRUGAS</h1><br>
@@ -135,7 +135,7 @@ if($mensaje_time):
                     </div>
                   
                     <div class="item">
-                      <img src="<?php echo $ruta_images;?>slide/pro_img_2.jpg" alt="Second slide">
+                      <img src="<?php echo $AWS_BUCKET;?>images/slide/pro_img_2.jpg" alt="Second slide">
                           <div class="container">
                            <div class="carousel-caption-right">
                               <h1>NESCAFE<br /> DECAF<br /> SIN CAFEÍNA </h1><br>
@@ -146,7 +146,7 @@ if($mensaje_time):
                     </div>
                     
                     <div class="item">
-                       <img src="<?php echo $ruta_images;?>slide/pro_img_3.jpg" alt="Third slide">
+                       <img src="<?php echo $AWS_BUCKET;?>images/slide/pro_img_3.jpg" alt="Third slide">
                       <div class="container">
                         <div class="carousel-caption-right">
                               <h1>BONAFONT</h1><br>
@@ -158,7 +158,7 @@ if($mensaje_time):
                    
                     
                   </div>
-                  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span style="position:absolute; top:45%; left:-5px; display:inline-block;"><img src="<?php echo $ruta_images;?>slide/arrow_left.jpg"></span></a>
+                  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span style="position:absolute; top:45%; left:-5px; display:inline-block;"><img src="<?php echo $AWS_BUCKET;?>slide/arrow_left.jpg"></span></a>
                   <a class="right carousel-control" href="#myCarousel" data-slide="next"><span style="position:absolute; top:45%; right:-5px; display:inline-block;"><img src="<?php echo $ruta_images;?>slide/arrow_right.jpg"></span></a>
                 </div><!-- /.carousel -->
         <!--/CARRUSEL-->    

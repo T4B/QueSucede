@@ -16,7 +16,7 @@
 
 
                     <div class="item active  text-center">
-                      <img src="<?php echo $ruta_images;?>slide/img_0.jpg" alt="First slide">
+                      <img src="<?php echo $AWS_BUCKET;?>images/slide/img_0.jpg" alt="First slide">
                           <div class="container">
                             <div class="carousel-caption-right">
 
@@ -24,21 +24,21 @@
                           </div>
                     </div>
                     <div class="item  text-center">
-                      <img src="<?php echo $ruta_images;?>slide/img_1.jpg" alt="Second slide">
+                      <img src="<?php echo $AWS_BUCKET;?>images/slide/img_1.jpg" alt="Second slide">
                           <div class="container">
 
                           </div>
                     </div>
 
                     <div class="item text-center">
-                       <img src="<?php echo $ruta_images;?>slide/img_2.jpg" alt="Third slide">
+                       <img src="<?php echo $AWS_BUCKET;?>images/slide/img_2.jpg" alt="Third slide">
                       <div class="container">
 
                       </div>
                     </div>
 
                     <div class="item  text-center">
-                      <img src="<?php echo $ruta_images;?>slide/img_3.jpg" alt="Four slide">
+                      <img src="<?php echo $AWS_BUCKET;?>images/slide/img_3.jpg" alt="Four slide">
                       <div class="container">
                         <div class="carousel-caption">
                           <h1> </h1>

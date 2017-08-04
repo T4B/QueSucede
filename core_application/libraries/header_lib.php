@@ -7,6 +7,7 @@ class Header_lib {
         
         $ruta_app = base_url();
         $data['ruta_app'] = $ruta_app;
+        $data['AWS_BUCKET'] = 'https://s3.amazonaws.com/quesucede/';
         $ruta_css = $ruta_app.'css/';
         $data['ruta_css'] = $ruta_css;
         $data['ruta_js'] = $ruta_app.'javascripts/';

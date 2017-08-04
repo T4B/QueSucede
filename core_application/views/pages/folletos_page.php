@@ -13,6 +13,7 @@
     var pagina_actual = <?php echo $pagina_actual; ?>;
     var total_paginas = <?php echo $total_paginas; ?>;
     var ruta_app = "<?php echo $ruta_app;?>";
+    var bucket = "<?php echo $bucket;?>";
     
     function paginar(pagina) {
 	var mi_ruta = ruta_app + "folletos/pag/"+pagina;
@@ -172,9 +173,9 @@
 	<div class="col-sm-3 col-md-3 f_muestra_promo">
 	  <div class="thumbnail">
 	    <div class="text-center" style="margin:10px 0;">
-			<img src="<?php echo $ruta_app; ?>src_folletos/<?php echo $folleto['ruta'] . "/" . $folleto['img_folleto'];?>" class="img_folleto">
+			<img src="<?php echo $AWS_BUCKET; ?>src_folletos/<?php echo $folleto['ruta'] . "/" . $folleto['img_folleto'];?>" class="img_folleto">
 	    </div>
-	    <img src="<?php echo $ruta_app; ?>src_folletos/<?php echo $folleto['ruta'] . "/" . $folleto['portada']; ?>">
+	    <img src="<?php echo $AWS_BUCKET; ?>src_folletos/<?php echo $folleto['ruta'] . "/" . $folleto['portada']; ?>">
 	    <div class="caption">
 	      <h5>Periodo: <br /><b><?php echo $folleto['periodo']; ?></b></h5><br>
 	     <p class="text-center">
