@@ -53,6 +53,7 @@ switch($host)
     case "https://quesucede.app/":
     case "http://www.quesucede.dev/":
     case "http://quesucede.dev/":
+    case "http://quesucede.t4b.mx/"
         $grupo="dev";
         break;
     case "http://www.quesucede.com.mx/":
@@ -82,10 +83,10 @@ $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
-$db['dev']['hostname'] = '127.0.0.1';
-$db['dev']['username'] = 'root';
-$db['dev']['password'] = '';
-$db['dev']['database'] = 'que_sucede';
+$db['dev']['hostname'] = 'localhost';
+$db['dev']['username'] = 'admin_qs';
+$db['dev']['password'] = 'pewUgmdmmm9NyqzX';
+$db['dev']['database'] = 'quesucede';
 $db['dev']['dbdriver'] = 'mysqli';
 $db['dev']['dbprefix'] = '';
 $db['dev']['pconnect'] = TRUE;
