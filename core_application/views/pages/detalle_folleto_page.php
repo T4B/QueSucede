@@ -8,7 +8,7 @@
             &nbsp;
         </div>
         <div class="col-md-4">
-            <img src="<?php echo $ruta_app; ?>src_folletos/<?php echo $folleto->ruta . "/" . $folleto->img_folleto;?>">
+            <img src="<?php echo $AWS_BUCKET; ?>src_folletos/<?php echo $folleto->ruta . "/" . $folleto->img_folleto;?>">
             <br />
             <br />
             <h3>Periodo: <br />
@@ -25,7 +25,7 @@
     </div>
     
     <div class="col-md-12 text-center" style="margin-top: 20px;">
-       <embed src="<?php echo $ruta_app . "src_folletos/" . $folleto->ruta . "/" .  $folleto->pdf; ?>" width="800" height="700"></embed>
+       <embed src="<?php echo $AWS_BUCKET . "src_folletos/" . $folleto->ruta . "/" .  $folleto->pdf; ?>" width="800" height="700"></embed>
        
     </div>
     

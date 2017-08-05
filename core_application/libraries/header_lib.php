@@ -7,13 +7,14 @@ class Header_lib {
         
         $ruta_app = base_url();
         $data['ruta_app'] = $ruta_app;
-        $data['AWS_BUCKET'] = 'https://s3.amazonaws.com/quesucede/';
+        $AWS_BUCKET = 'https://s3.amazonaws.com/quesucede/';
+        $data['AWS_BUCKET'] = $AWS_BUCKET;
         $ruta_css = $ruta_app.'css/';
         $data['ruta_css'] = $ruta_css;
         $data['ruta_js'] = $ruta_app.'javascripts/';
-        $ruta_images = $ruta_app.'images/';
+        $ruta_images = $AWS_BUCKET.'images/';
         $data['ruta_images'] = $ruta_images;
-        $data['ruta_images_promo'] = $ruta_app.'images_promo/';
+        $data['ruta_images_promo'] = $AWS_BUCKET.'images_promo/';
         $data['es_index'] = FALSE;
         
         return $data;

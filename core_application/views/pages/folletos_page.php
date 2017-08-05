@@ -180,7 +180,7 @@
 	      <h5>Periodo: <br /><b><?php echo $folleto['periodo']; ?></b></h5><br>
 	     <p class="text-center">
 	      <a href="<?php echo $ruta_app . "folletos/detalle/" . $folleto['id_folleto']; ?>" target="" class="btn btn-primary btn-xs"><span class="glyphicon glyphicon-chevron-right "></span>&nbsp;Ver</a>
-	      <a href="<?php echo $ruta_app . "folletos/download/" . $folleto['ruta'] . "/" . $folleto['pdf']; ?>" class="btn btn-primary btn-xs" target=""><span class="glyphicon glyphicon-chevron-down"></span>&nbsp;Descargar</a>
+	      <a href="<?php echo $AWS_BUCKET . "src_folletos/" . $folleto['ruta'] . "/" . $folleto['pdf']; ?>" class="btn btn-primary btn-xs" target=""><span class="glyphicon glyphicon-chevron-down"></span>&nbsp;Descargar</a>
 	      <?php if($es_index): ?>
 		<a href="javascript:buscar_formato(<?php echo $folleto['formatos_id_formato'];?>);" class="btn btn-default btn-xs" target=""><span class="glyphicon glyphicon-chevron-left"></span>&nbsp;Historial</a>
 	      <?php endif; ?>

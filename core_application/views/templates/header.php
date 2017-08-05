@@ -204,8 +204,8 @@
     }
       
       
-      var seccion_actual = <?php echo $this->session->userdata('seccion'); ?>;
-      var clase_seccion = '<?php echo $this->session->userdata('clase_seccion'); ?>';
+      var seccion_actual = '<?php echo $this->session->userdata('seccion')?>';
+      var clase_seccion = '<?php echo $this->session->userdata('clase_seccion')?>';
       
       $(document).ready(function(){
         <?php if($this->session->flashdata('err_login')):?>
@@ -519,7 +519,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-        <a class="navbar-brand" href="<?php echo $ruta_app;?>"><img src="<?php echo $ruta_images; ?>logo_header.png"></a>
+        <a class="navbar-brand" href="<?php echo $ruta_app;?>"><img src="<?php echo $AWS_BUCKET; ?>images/logo_header.png"></a>
         </div>
         <!--navbar-right-->
         <div class="navbar-collapse collapse navbar-nav navbar-right" style="margin-top:15px;">

@@ -3,7 +3,7 @@
 body {
   min-height: 800px;
   padding-top: 70px;
-  background:url(../images/bg_cover.jpg) center repeat;
+  background:url(https://s3.amazonaws.com/quesucede/images/bg_cover.jpg) center repeat;
 }
 
 p{
@@ -148,7 +148,7 @@ p{
 }
 
 .gift_aviso a{
-  background:url(../images/i_activa.gif) no-repeat;
+  background:url(https://s3.amazonaws.com/quesucede/images/i_activa.gif) no-repeat;
   background-position:0px 0px;	
   display: block;
   width:70px;
