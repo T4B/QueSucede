@@ -352,7 +352,7 @@ class Folletos extends CI_Controller
         $indice = count($ext) - 1;
         $nombre_archivo = $file_name . '.' . $ext[$indice];
         $data = array(
-            'Bucket' => 'quesucede',
+            'Bucket' => 'quesucede'.$upload_path,
             'Key' => $nombre_archivo,
             'ACL' => 'public-read',
             'SourceFile' => ($_FILES[$field_name]['tmp_name']),
