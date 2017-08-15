@@ -49,8 +49,8 @@
                     </div>
 
                   </div>
-                  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span style="position:absolute; top:45%; left:-5px; display:inline-block;"><img src="<?php echo $ruta_images;?>slide/arrow_left.jpg"></span></a>
-                  <a class="right carousel-control" href="#myCarousel" data-slide="next"><span style="position:absolute; top:45%; right:-5px; display:inline-block;"><img src="<?php echo $ruta_images;?>slide/arrow_right.jpg"></span></a>
+                  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span style="position:absolute; top:45%; left:-5px; display:inline-block;"><img src="<?php echo $ruta_images;?>images/slide/arrow_left.jpg"></span></a>
+                  <a class="right carousel-control" href="#myCarousel" data-slide="next"><span style="position:absolute; top:45%; right:-5px; display:inline-block;"><img src="<?php echo $ruta_images;?>images/slide/arrow_right.jpg"></span></a>
                 </div><!-- /.carousel -->
         <!--/CARRUSEL-->
         </div><!--/col-md-7-->
