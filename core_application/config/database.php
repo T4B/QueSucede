@@ -56,8 +56,8 @@ switch($host)
     case "http://quesucede.t4b.mx/":
         $grupo="dev";
         break;
-    case "http://www.quesucede.com.mx/":
-    case "http://quesucede.com.mx/":
+    case "https://www.quesucede.com.mx/":
+    case "https://quesucede.com.mx/":
         $grupo="prod";
         break;
     default :
@@ -83,28 +83,11 @@ $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
-$db['dev']['hostname'] = 'localhost';
-$db['dev']['username'] = 'admin_qs';
-$db['dev']['password'] = 'pewUgmdmmm9NyqzX';
-$db['dev']['database'] = 'quesucede';
-$db['dev']['dbdriver'] = 'mysqli';
-$db['dev']['dbprefix'] = '';
-$db['dev']['pconnect'] = TRUE;
-$db['dev']['db_debug'] = TRUE;
-$db['dev']['cache_on'] = FALSE;
-$db['dev']['cachedir'] = '';
-$db['dev']['char_set'] = 'utf8';
-$db['dev']['dbcollat'] = 'utf8_general_ci';
-$db['dev']['swap_pre'] = '';
-$db['dev']['autoinit'] = TRUE;
-$db['dev']['stricton'] = FALSE;
-
-
 $db['prod']['hostname'] = 'localhost';
-$db['prod']['username'] = 'quesucede';
-$db['prod']['password'] = 'havy4y2y6';
-$db['prod']['database'] = 'quesucede_main';
-$db['prod']['dbdriver'] = 'mysql';
+$db['prod']['username'] = 'admin_qs';
+$db['prod']['password'] = 'pewUgmdmmm9NyqzX';
+$db['prod']['database'] = 'quesucede';
+$db['prod']['dbdriver'] = 'mysqli';
 $db['prod']['dbprefix'] = '';
 $db['prod']['pconnect'] = TRUE;
 $db['prod']['db_debug'] = TRUE;
@@ -115,6 +98,23 @@ $db['prod']['dbcollat'] = 'utf8_general_ci';
 $db['prod']['swap_pre'] = '';
 $db['prod']['autoinit'] = TRUE;
 $db['prod']['stricton'] = FALSE;
+
+
+$db['dev']['hostname'] = 'localhost';
+$db['dev']['username'] = 'quesucede';
+$db['dev']['password'] = 'havy4y2y6';
+$db['dev']['database'] = 'quesucede_main';
+$db['dev']['dbdriver'] = 'mysql';
+$db['dev']['dbprefix'] = '';
+$db['dev']['pconnect'] = TRUE;
+$db['dev']['db_debug'] = TRUE;
+$db['dev']['cache_on'] = FALSE;
+$db['dev']['cachedir'] = '';
+$db['dev']['char_set'] = 'utf8';
+$db['dev']['dbcollat'] = 'utf8_general_ci';
+$db['dev']['swap_pre'] = '';
+$db['dev']['autoinit'] = TRUE;
+$db['dev']['stricton'] = FALSE;
 
 
 
