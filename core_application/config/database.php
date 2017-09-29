@@ -56,8 +56,8 @@ switch($host)
     case "http://quesucede.t4b.mx/":
         $grupo="dev";
         break;
-    case "http://www.quesucede.com.mx/":
-    case "http://quesucede.com.mx/":
+    case "https://www.quesucede.com.mx/":
+    case "https://quesucede.com.mx/":
         $grupo="prod";
         break;
     default :
